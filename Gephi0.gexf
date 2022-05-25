@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
-  <meta lastmodifieddate="2022-05-24">
+  <meta lastmodifieddate="2022-05-25">
     <creator>NetworkX 2.5</creator>
   </meta>
   <graph defaultedgetype="directed" mode="static" name="">
@@ -13,46 +13,106 @@
       <attribute id="0" title="Sector" type="string" />
     </attributes>
     <nodes>
-      <node id="William Lohse" label="William Lohse" />
+      <node id="William Lohse" label="William Lohse">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
       <node id="Knowledge Adventure" label="Knowledge Adventure">
         <attvalues>
           <attvalue for="0" value="Games" />
         </attvalues>
       </node>
-      <node id="Hummer Winblad Venture Partners" label="Hummer Winblad Venture Partners" />
+      <node id="Hummer Winblad Venture Partners" label="Hummer Winblad Venture Partners">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
       <node id="Market Wire" label="Market Wire">
         <attvalues>
           <attvalue for="0" value="Advertising" />
         </attvalues>
       </node>
-      <node id="Mindful Investors" label="Mindful Investors" />
-      <node id="Montreux Equity Partners" label="Montreux Equity Partners" />
-      <node id="Osprey Ventures" label="Osprey Ventures" />
-      <node id="Perkins Coie" label="Perkins Coie" />
-      <node id="Sequoia Capital" label="Sequoia Capital" />
-      <node id="Stanford University" label="Stanford University" />
-      <node id="Motorola Solutions Venture Capital" label="Motorola Solutions Venture Capital" />
+      <node id="Mindful Investors" label="Mindful Investors">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Montreux Equity Partners" label="Montreux Equity Partners">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Osprey Ventures" label="Osprey Ventures">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Perkins Coie" label="Perkins Coie">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Sequoia Capital" label="Sequoia Capital">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Stanford University" label="Stanford University">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Motorola Solutions Venture Capital" label="Motorola Solutions Venture Capital">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
       <node id="Viewpoint Digital" label="Viewpoint Digital">
         <attvalues>
           <attvalue for="0" value="Software" />
         </attvalues>
       </node>
-      <node id="Hummer Winblad" label="Hummer Winblad" />
-      <node id="Intel" label="Intel" />
-      <node id="Kleiner Perkins Caufield &amp; Byers" label="Kleiner Perkins Caufield &amp; Byers" />
-      <node id="eXeed Technology" label="eXeed Technology" />
+      <node id="Hummer Winblad" label="Hummer Winblad">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Intel" label="Intel">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Kleiner Perkins Caufield &amp; Byers" label="Kleiner Perkins Caufield &amp; Byers">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="eXeed Technology" label="eXeed Technology">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
       <node id="ActionBase" label="ActionBase">
         <attvalues>
           <attvalue for="0" value="Advertising" />
         </attvalues>
       </node>
-      <node id="IDG Capital Partners" label="IDG Capital Partners" />
+      <node id="IDG Capital Partners" label="IDG Capital Partners">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
       <node id="Infotop" label="Infotop">
         <attvalues>
           <attvalue for="0" value="Software" />
         </attvalues>
       </node>
-      <node id="Edmond de Rothschild Venture Capital" label="Edmond de Rothschild Venture Capital" />
+      <node id="Edmond de Rothschild Venture Capital" label="Edmond de Rothschild Venture Capital">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
       <node id="MediaLink" label="MediaLink">
         <attvalues>
           <attvalue for="0" value="Consulting" />

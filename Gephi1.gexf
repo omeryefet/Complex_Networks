@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
-  <meta lastmodifieddate="2022-05-24">
+  <meta lastmodifieddate="2022-05-25">
     <creator>NetworkX 2.5</creator>
   </meta>
   <graph defaultedgetype="directed" mode="static" name="">
@@ -13,155 +13,2916 @@
       <attribute id="0" title="Sector" type="string" />
     </attributes>
     <nodes>
-      <node id="William Lohse" label="William Lohse" />
-      <node id="Knowledge Adventure" label="Knowledge Adventure">
+      <node id="CMGI @Ventures" label="CMGI @Ventures">
         <attvalues>
-          <attvalue for="0" value="Games" />
+          <attvalue for="0" value="Investors" />
         </attvalues>
       </node>
-      <node id="Hummer Winblad Venture Partners" label="Hummer Winblad Venture Partners" />
-      <node id="Market Wire" label="Market Wire">
+      <node id="GeoCities" label="GeoCities">
         <attvalues>
-          <attvalue for="0" value="Advertising" />
+          <attvalue for="0" value="Web Hosting" />
         </attvalues>
       </node>
-      <node id="Mindful Investors" label="Mindful Investors" />
-      <node id="Montreux Equity Partners" label="Montreux Equity Partners" />
-      <node id="Osprey Ventures" label="Osprey Ventures" />
-      <node id="Perkins Coie" label="Perkins Coie" />
-      <node id="Sequoia Capital" label="Sequoia Capital" />
-      <node id="Stanford University" label="Stanford University" />
-      <node id="Motorola Solutions Venture Capital" label="Motorola Solutions Venture Capital" />
-      <node id="Viewpoint Digital" label="Viewpoint Digital">
+      <node id="Sequoia Capital" label="Sequoia Capital">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Yahoo!" label="Yahoo!">
+        <attvalues>
+          <attvalue for="0" value="Photography" />
+        </attvalues>
+      </node>
+      <node id="Kleiner Perkins Caufield &amp; Byers" label="Kleiner Perkins Caufield &amp; Byers">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Amazon" label="Amazon">
+        <attvalues>
+          <attvalue for="0" value="Consumer Goods" />
+        </attvalues>
+      </node>
+      <node id="Reuters" label="Reuters">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="SoftBank" label="SoftBank">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="AOL" label="AOL">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="XO Group" label="XO Group">
+        <attvalues>
+          <attvalue for="0" value="Media" />
+        </attvalues>
+      </node>
+      <node id="Flatiron Partners" label="Flatiron Partners">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Shamrock Holdings" label="Shamrock Holdings">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Orad" label="Orad">
+        <attvalues>
+          <attvalue for="0" value="Security" />
+        </attvalues>
+      </node>
+      <node id="Smedvig Capital" label="Smedvig Capital">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="TreFoil Energy" label="TreFoil Energy">
+        <attvalues>
+          <attvalue for="0" value="Finance" />
+        </attvalues>
+      </node>
+      <node id="Steps Ventures" label="Steps Ventures">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="PowerDsine" label="PowerDsine">
+        <attvalues>
+          <attvalue for="0" value="VoIP" />
+        </attvalues>
+      </node>
+      <node id="SAIF Partners" label="SAIF Partners">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="UTStarcom" label="UTStarcom">
+        <attvalues>
+          <attvalue for="0" value="Internet" />
+        </attvalues>
+      </node>
+      <node id="Montgomery &amp; Co" label="Montgomery &amp; Co">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Digital Media Broadcast" label="Digital Media Broadcast">
+        <attvalues>
+          <attvalue for="0" value="Digital Media" />
+        </attvalues>
+      </node>
+      <node id="IDG Capital Partners" label="IDG Capital Partners">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Mtone Wireless" label="Mtone Wireless">
+        <attvalues>
+          <attvalue for="0" value="Mobile" />
+        </attvalues>
+      </node>
+      <node id="WI Harper Group" label="WI Harper Group">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="CIBC World Markets" label="CIBC World Markets">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Global Crossing" label="Global Crossing">
+        <attvalues>
+          <attvalue for="0" value="Telecommunications" />
+        </attvalues>
+      </node>
+      <node id="Benchmark" label="Benchmark">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="eBay" label="eBay">
+        <attvalues>
+          <attvalue for="0" value="Business Services" />
+        </attvalues>
+      </node>
+      <node id="Greylock Partners" label="Greylock Partners">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Mobile Automation" label="Mobile Automation">
+        <attvalues>
+          <attvalue for="0" value="Enterprise Software" />
+        </attvalues>
+      </node>
+      <node id="Funding Global Innovation" label="Funding Global Innovation">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Sina" label="Sina">
+        <attvalues>
+          <attvalue for="0" value="Curated Web" />
+        </attvalues>
+      </node>
+      <node id="Dawntreader Ventures" label="Dawntreader Ventures">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="iPrint" label="iPrint">
+        <attvalues>
+          <attvalue for="0" value="E-Commerce" />
+        </attvalues>
+      </node>
+      <node id="Information Technology Ventures" label="Information Technology Ventures">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Jerry Kaplan" label="Jerry Kaplan">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Shipu" label="Shipu">
         <attvalues>
           <attvalue for="0" value="Software" />
         </attvalues>
       </node>
-      <node id="Hummer Winblad" label="Hummer Winblad" />
-      <node id="Intel" label="Intel" />
-      <node id="Kleiner Perkins Caufield &amp; Byers" label="Kleiner Perkins Caufield &amp; Byers" />
-      <node id="eXeed Technology" label="eXeed Technology" />
-      <node id="ActionBase" label="ActionBase">
+      <node id="Ampal-American Israel" label="Ampal-American Israel">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Madrona Venture Group" label="Madrona Venture Group">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="LiveBid" label="LiveBid">
+        <attvalues>
+          <attvalue for="0" value="Auctions" />
+        </attvalues>
+      </node>
+      <node id="SoftBank Capital" label="SoftBank Capital">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Vertex Venture Capital" label="Vertex Venture Capital">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Scott Oki" label="Scott Oki">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Tom Alberg" label="Tom Alberg">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Columbia Capital" label="Columbia Capital">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Webs" label="Webs">
+        <attvalues>
+          <attvalue for="0" value="Curated Web" />
+        </attvalues>
+      </node>
+      <node id="Novak Biddle Venture Partners" label="Novak Biddle Venture Partners">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Nigel Morris" label="Nigel Morris">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Hummer Winblad Venture Partners" label="Hummer Winblad Venture Partners">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Atlas Venture" label="Atlas Venture">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="E Ink" label="E Ink">
+        <attvalues>
+          <attvalue for="0" value="Hardware + Software" />
+        </attvalues>
+      </node>
+      <node id="Hearst Ventures" label="Hearst Ventures">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Interpublic Group" label="Interpublic Group">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Motorola Solutions" label="Motorola Solutions">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Allegis Capital" label="Allegis Capital">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Shopzilla" label="Shopzilla">
         <attvalues>
           <attvalue for="0" value="Advertising" />
         </attvalues>
       </node>
-      <node id="IDG Capital Partners" label="IDG Capital Partners" />
-      <node id="Infotop" label="Infotop">
+      <node id="Mission Ventures" label="Mission Ventures">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Individual Investors" label="Individual Investors">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Andy Bechtolsheim" label="Andy Bechtolsheim">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Google" label="Google">
         <attvalues>
           <attvalue for="0" value="Software" />
         </attvalues>
       </node>
-      <node id="Edmond de Rothschild Venture Capital" label="Edmond de Rothschild Venture Capital" />
-      <node id="MediaLink" label="MediaLink">
+      <node id="Jerusalem Venture Partners" label="Jerusalem Venture Partners">
         <attvalues>
-          <attvalue for="0" value="Consulting" />
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Poalim Ventures" label="Poalim Ventures">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Pina Hirano" label="Pina Hirano">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Infoteria Corporation" label="Infoteria Corporation">
+        <attvalues>
+          <attvalue for="0" value="Software" />
+        </attvalues>
+      </node>
+      <node id="Yoshiyuki Kitahara" label="Yoshiyuki Kitahara">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Sigma Partners" label="Sigma Partners">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Zayante" label="Zayante">
+        <attvalues>
+          <attvalue for="0" value="Software" />
+        </attvalues>
+      </node>
+      <node id="Katarzyna Szubryt" label="Katarzyna Szubryt">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Yellow Pages" label="Yellow Pages">
+        <attvalues>
+          <attvalue for="0" value="Search" />
+        </attvalues>
+      </node>
+      <node id="Roman Szubryt" label="Roman Szubryt">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Banexi Ventures" label="Banexi Ventures">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Kelkoo" label="Kelkoo">
+        <attvalues>
+          <attvalue for="0" value="E-Commerce" />
+        </attvalues>
+      </node>
+      <node id="Base Ventures" label="Base Ventures">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Zappos" label="Zappos">
+        <attvalues>
+          <attvalue for="0" value="Curated Web" />
+        </attvalues>
+      </node>
+      <node id="Concord Ventures" label="Concord Ventures">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Odin Medical Technologies" label="Odin Medical Technologies">
+        <attvalues>
+          <attvalue for="0" value="Medical" />
+        </attvalues>
+      </node>
+      <node id="Cross Atlantic Capital Partners" label="Cross Atlantic Capital Partners">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Automsoft" label="Automsoft">
+        <attvalues>
+          <attvalue for="0" value="Analytics" />
+        </attvalues>
+      </node>
+      <node id="Europeatweb" label="Europeatweb">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="gate5" label="gate5">
+        <attvalues>
+          <attvalue for="0" value="Mobile" />
+        </attvalues>
+      </node>
+      <node id="Guanri" label="Guanri">
+        <attvalues>
+          <attvalue for="0" value="Software" />
+        </attvalues>
+      </node>
+      <node id="kingsky" label="kingsky">
+        <attvalues>
+          <attvalue for="0" value="Software" />
+        </attvalues>
+      </node>
+      <node id="Innovacom" label="Innovacom">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Pitango Venture Capital" label="Pitango Venture Capital">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Shenzhen Capital Group" label="Shenzhen Capital Group">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Star Ventures" label="Star Ventures">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="SV Angel" label="SV Angel">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Walden Israel Venture Capital" label="Walden Israel Venture Capital">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Zions First National Bank" label="Zions First National Bank">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="MWI" label="MWI">
+        <attvalues>
+          <attvalue for="0" value="Web Design" />
+        </attvalues>
+      </node>
+      <node id="Alain Ferland" label="Alain Ferland">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="WANTED Technologies" label="WANTED Technologies">
+        <attvalues>
+          <attvalue for="0" value="Analytics" />
+        </attvalues>
+      </node>
+      <node id="David Tanguay" label="David Tanguay">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Erik Moore" label="Erik Moore">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Evan Price" label="Evan Price">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="George Lindeman" label="George Lindeman">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Addashop" label="Addashop">
+        <attvalues>
+          <attvalue for="0" value="E-Commerce" />
+        </attvalues>
+      </node>
+      <node id="Halsey Minor" label="Halsey Minor">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Salesforce" label="Salesforce">
+        <attvalues>
+          <attvalue for="0" value="Software" />
+        </attvalues>
+      </node>
+      <node id="Kevin Parker" label="Kevin Parker">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Next Jump" label="Next Jump">
+        <attvalues>
+          <attvalue for="0" value="Human Resources" />
+        </attvalues>
+      </node>
+      <node id="Larry Ellison" label="Larry Ellison">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Magdalena Yesil" label="Magdalena Yesil">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Mark Tebbe" label="Mark Tebbe">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Answers Corporation" label="Answers Corporation">
+        <attvalues>
+          <attvalue for="0" value="Information Technology" />
+        </attvalues>
+      </node>
+      <node id="Mort Meyerson" label="Mort Meyerson">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Nick Merrick" label="Nick Merrick">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Virgilio Degiovanni" label="Virgilio Degiovanni">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Yossi Vardi" label="Yossi Vardi">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Canaan Partners" label="Canaan Partners">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Highland Capital Partners" label="Highland Capital Partners">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Ask.com" label="Ask.com">
+        <attvalues>
+          <attvalue for="0" value="Social Media" />
+        </attvalues>
+      </node>
+      <node id="Institutional Venture Partners (IVP)" label="Institutional Venture Partners (IVP)">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Intel" label="Intel">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Intel Capital" label="Intel Capital">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Intersouth Partners" label="Intersouth Partners">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Sentillion" label="Sentillion">
+        <attvalues>
+          <attvalue for="0" value="Health and Wellness" />
+        </attvalues>
+      </node>
+      <node id="Newbury Ventures" label="Newbury Ventures">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Polaris Partners" label="Polaris Partners">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Dynafund Ventures" label="Dynafund Ventures">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Cooking.com" label="Cooking.com">
+        <attvalues>
+          <attvalue for="0" value="Recipes" />
+        </attvalues>
+      </node>
+      <node id="Forrest Binkley and Brown" label="Forrest Binkley and Brown">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Idealab" label="Idealab">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="SuperData Research" label="SuperData Research">
+        <attvalues>
+          <attvalue for="0" value="Market Research" />
+        </attvalues>
+      </node>
+      <node id="Moore Capital" label="Moore Capital">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Phillips Smith Specialty Group" label="Phillips Smith Specialty Group">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Times Mirror Company" label="Times Mirror Company">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Tredegar Investments" label="Tredegar Investments">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Vanguard Ventures" label="Vanguard Ventures">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Bob Lessin" label="Bob Lessin">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="John Sculley" label="John Sculley">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Jon Medved" label="Jon Medved">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Michael Parekh" label="Michael Parekh">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Ron Conway" label="Ron Conway">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="LBB Capital Fund GmbH" label="LBB Capital Fund GmbH">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Linkedwith" label="Linkedwith">
+        <attvalues>
+          <attvalue for="0" value="Mobile" />
+        </attvalues>
+      </node>
+      <node id="LBB Seed Capital Fund GmbH" label="LBB Seed Capital Fund GmbH">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="QVC" label="QVC">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Draper Richards" label="Draper Richards">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="OpenTable" label="OpenTable">
+        <attvalues>
+          <attvalue for="0" value="Business Services" />
+        </attvalues>
+      </node>
+      <node id="Scottish Equity Partners (SEP)" label="Scottish Equity Partners (SEP)">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Cyclacel Pharmaceuticals" label="Cyclacel Pharmaceuticals">
+        <attvalues>
+          <attvalue for="0" value="Biotechnology" />
+        </attvalues>
+      </node>
+      <node id="Venture Frogs" label="Venture Frogs">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Attractor Investment Management" label="Attractor Investment Management">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Hambrecht &amp; Quist Capital Management" label="Hambrecht &amp; Quist Capital Management">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Goldman Sachs" label="Goldman Sachs">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Tunes.com" label="Tunes.com">
+        <attvalues>
+          <attvalue for="0" value="E-Commerce" />
+        </attvalues>
+      </node>
+      <node id="Soufun" label="Soufun">
+        <attvalues>
+          <attvalue for="0" value="Technology" />
+        </attvalues>
+      </node>
+      <node id="Tellme" label="Tellme">
+        <attvalues>
+          <attvalue for="0" value="Mobile" />
+        </attvalues>
+      </node>
+      <node id="Ali Partovi" label="Ali Partovi">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Frank Marshall" label="Frank Marshall">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="VivaSmart" label="VivaSmart">
+        <attvalues>
+          <attvalue for="0" value="Curated Web" />
+        </attvalues>
+      </node>
+      <node id="Hadi Partovi" label="Hadi Partovi">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="JupiterMedia Corporation" label="JupiterMedia Corporation">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Studio Systems" label="Studio Systems">
+        <attvalues>
+          <attvalue for="0" value="Television" />
+        </attvalues>
+      </node>
+      <node id="Bluehawk Capital" label="Bluehawk Capital">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Search123" label="Search123">
+        <attvalues>
+          <attvalue for="0" value="Services" />
+        </attvalues>
+      </node>
+      <node id="Asset Management Company" label="Asset Management Company">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Prime Advantage" label="Prime Advantage">
+        <attvalues>
+          <attvalue for="0" value="Manufacturing" />
+        </attvalues>
+      </node>
+      <node id="Staenberg Venture Partners" label="Staenberg Venture Partners">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="BlueRun Ventures" label="BlueRun Ventures">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="PayPal" label="PayPal">
+        <attvalues>
+          <attvalue for="0" value="Payments" />
+        </attvalues>
+      </node>
+      <node id="Tongtech" label="Tongtech">
+        <attvalues>
+          <attvalue for="0" value="Software" />
+        </attvalues>
+      </node>
+      <node id="Group Arnault" label="Group Arnault">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Netflix" label="Netflix">
+        <attvalues>
+          <attvalue for="0" value="Consumer Electronics" />
+        </attvalues>
+      </node>
+      <node id="Morningstar" label="Morningstar">
+        <attvalues>
+          <attvalue for="0" value="Investment Management" />
+        </attvalues>
+      </node>
+      <node id="Nokia Ventures" label="Nokia Ventures">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Ace Hardware" label="Ace Hardware">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="OurHouse" label="OurHouse">
+        <attvalues>
+          <attvalue for="0" value="Retail" />
+        </attvalues>
+      </node>
+      <node id="Gabriel Venture Partners" label="Gabriel Venture Partners">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Shoplocal" label="Shoplocal">
+        <attvalues>
+          <attvalue for="0" value="Shopping" />
+        </attvalues>
+      </node>
+      <node id="Jell Creative" label="Jell Creative">
+        <attvalues>
+          <attvalue for="0" value="Messaging" />
+        </attvalues>
+      </node>
+      <node id="Trident Capital" label="Trident Capital">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Commonwealth Capital Ventures" label="Commonwealth Capital Ventures">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Direct Hit" label="Direct Hit">
+        <attvalues>
+          <attvalue for="0" value="Search" />
+        </attvalues>
+      </node>
+      <node id="TA Associates" label="TA Associates">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Dynamics Direct" label="Dynamics Direct">
+        <attvalues>
+          <attvalue for="0" value="Advertising Platforms" />
+        </attvalues>
+      </node>
+      <node id="DFJ Tamir Fishman Ventures" label="DFJ Tamir Fishman Ventures">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="JPMorgan Partners (JPMP)" label="JPMorgan Partners (JPMP)">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="ARCH Venture Partners" label="ARCH Venture Partners">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Teach.com" label="Teach.com">
+        <attvalues>
+          <attvalue for="0" value="Education" />
+        </attvalues>
+      </node>
+      <node id="Heidelberg Innovation" label="Heidelberg Innovation">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="MTM Laboratories" label="MTM Laboratories">
+        <attvalues>
+          <attvalue for="0" value="Biotechnology" />
+        </attvalues>
+      </node>
+      <node id="Mannheim Holdings" label="Mannheim Holdings">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Tribune Ventures" label="Tribune Ventures">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Origin Ventures" label="Origin Ventures">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="iNest Realty" label="iNest Realty">
+        <attvalues>
+          <attvalue for="0" value="Real Estate" />
+        </attvalues>
+      </node>
+      <node id="Amerindo Investment Advisors" label="Amerindo Investment Advisors">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Ancestry" label="Ancestry">
+        <attvalues>
+          <attvalue for="0" value="Internet" />
+        </attvalues>
+      </node>
+      <node id="Austin Ventures" label="Austin Ventures">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="ACTIVE Network" label="ACTIVE Network">
+        <attvalues>
+          <attvalue for="0" value="Software" />
+        </attvalues>
+      </node>
+      <node id="Compaq" label="Compaq">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Garage Technology Ventures" label="Garage Technology Ventures">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Israel Seed Partners" label="Israel Seed Partners">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Pivotal Private Equity" label="Pivotal Private Equity">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="ITIS Holdings" label="ITIS Holdings">
+        <attvalues>
+          <attvalue for="0" value="Software" />
+        </attvalues>
+      </node>
+      <node id="Chase Capital Partners" label="Chase Capital Partners">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Starbelly.com" label="Starbelly.com">
+        <attvalues>
+          <attvalue for="0" value="E-Commerce" />
+        </attvalues>
+      </node>
+      <node id="Mobius Venture Capital" label="Mobius Venture Capital">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="StartSampling" label="StartSampling">
+        <attvalues>
+          <attvalue for="0" value="Technology" />
+        </attvalues>
+      </node>
+      <node id="Brentwood Venture Capital" label="Brentwood Venture Capital">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Mayfield Fund" label="Mayfield Fund">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Boats.com" label="Boats.com">
+        <attvalues>
+          <attvalue for="0" value="Curated Web" />
+        </attvalues>
+      </node>
+      <node id="Technology Crossover Ventures" label="Technology Crossover Ventures">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Affinity" label="Affinity">
+        <attvalues>
+          <attvalue for="0" value="Advertising" />
+        </attvalues>
+      </node>
+      <node id="SquareTrade" label="SquareTrade">
+        <attvalues>
+          <attvalue for="0" value="Hardware + Software" />
+        </attvalues>
+      </node>
+      <node id="Fidelity Growth Partners Asia" label="Fidelity Growth Partners Asia">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Alibaba" label="Alibaba">
+        <attvalues>
+          <attvalue for="0" value="E-Commerce" />
+        </attvalues>
+      </node>
+      <node id="Ctrip" label="Ctrip">
+        <attvalues>
+          <attvalue for="0" value="Business Services" />
+        </attvalues>
+      </node>
+      <node id="Navigation Capital" label="Navigation Capital">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="NetWorth Partners" label="NetWorth Partners">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Pamlico Capital" label="Pamlico Capital">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Bedrock Capital Partners" label="Bedrock Capital Partners">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Ewireless" label="Ewireless">
+        <attvalues>
+          <attvalue for="0" value="Wireless" />
+        </attvalues>
+      </node>
+      <node id="AT&amp;T Intellectual Property" label="AT&amp;T Intellectual Property">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Ares Management" label="Ares Management">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="East River Ventures" label="East River Ventures">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="SunAmerica Ventures" label="SunAmerica Ventures">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="BEIID" label="BEIID">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Opsware" label="Opsware">
+        <attvalues>
+          <attvalue for="0" value="Software" />
+        </attvalues>
+      </node>
+      <node id="Kingdee" label="Kingdee">
+        <attvalues>
+          <attvalue for="0" value="Enterprise Software" />
+        </attvalues>
+      </node>
+      <node id="Snapfish" label="Snapfish">
+        <attvalues>
+          <attvalue for="0" value="Photography" />
+        </attvalues>
+      </node>
+      <node id="Plataforma Capital Partners" label="Plataforma Capital Partners">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Buscapé" label="Buscapé">
+        <attvalues>
+          <attvalue for="0" value="E-Commerce" />
+        </attvalues>
+      </node>
+      <node id="Kettle Partners" label="Kettle Partners">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="MusicNow" label="MusicNow">
+        <attvalues>
+          <attvalue for="0" value="Music" />
+        </attvalues>
+      </node>
+      <node id="New Enterprise Associates" label="New Enterprise Associates">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="BNDES" label="BNDES">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Visionnaire" label="Visionnaire">
+        <attvalues>
+          <attvalue for="0" value="Mobile" />
+        </attvalues>
+      </node>
+      <node id="First Analysis Venture Capital" label="First Analysis Venture Capital">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Go2call.com" label="Go2call.com">
+        <attvalues>
+          <attvalue for="0" value="VoIP" />
+        </attvalues>
+      </node>
+      <node id="Boomsense" label="Boomsense">
+        <attvalues>
+          <attvalue for="0" value="Web Hosting" />
+        </attvalues>
+      </node>
+      <node id="Lehman Brothers" label="Lehman Brothers">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="SideStep" label="SideStep">
+        <attvalues>
+          <attvalue for="0" value="Hotels" />
+        </attvalues>
+      </node>
+      <node id="Ticketmaster" label="Ticketmaster">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="William Blair New World Ventures" label="William Blair New World Ventures">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Dustin Coupal" label="Dustin Coupal">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="GasBuddy" label="GasBuddy">
+        <attvalues>
+          <attvalue for="0" value="Mobile" />
+        </attvalues>
+      </node>
+      <node id="Jason Toews" label="Jason Toews">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Igor Sill" label="Igor Sill">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="John Friedenrich" label="John Friedenrich">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Patrick McGovern" label="Patrick McGovern">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="William Hambrecht" label="William Hambrecht">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Gaiacom" label="Gaiacom">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Gaiacom Wireless Networks" label="Gaiacom Wireless Networks">
+        <attvalues>
+          <attvalue for="0" value="Mobile" />
+        </attvalues>
+      </node>
+      <node id="China Development Industrial Bank (CDIB)" label="China Development Industrial Bank (CDIB)">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Trivnet" label="Trivnet">
+        <attvalues>
+          <attvalue for="0" value="E-Commerce" />
+        </attvalues>
+      </node>
+      <node id="Magma Venture Partners" label="Magma Venture Partners">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="SingTel" label="SingTel">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Viventures" label="Viventures">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Barrington Partners" label="Barrington Partners">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Goldpocket Interactive" label="Goldpocket Interactive">
+        <attvalues>
+          <attvalue for="0" value="Software" />
+        </attvalues>
+      </node>
+      <node id="Comdisco Ventures" label="Comdisco Ventures">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="ServiceMaster Home Service Center" label="ServiceMaster Home Service Center">
+        <attvalues>
+          <attvalue for="0" value="Services" />
+        </attvalues>
+      </node>
+      <node id="New England Partners" label="New England Partners">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Transamerica Technology Finance" label="Transamerica Technology Finance">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
         </attvalues>
       </node>
     </nodes>
     <edges>
-      <edge source="William Lohse" target="Knowledge Adventure" id="0">
+      <edge source="CMGI @Ventures" target="GeoCities" id="0">
         <attvalues>
-          <attvalue for="1" value="Games" />
-          <attvalue for="2" value="60000.0" />
-          <attvalue for="3" value="0" />
-        </attvalues>
-      </edge>
-      <edge source="Hummer Winblad Venture Partners" target="Market Wire" id="1">
-        <attvalues>
-          <attvalue for="1" value="Advertising" />
-          <attvalue for="2" value="17550000.0" />
-          <attvalue for="3" value="0" />
-        </attvalues>
-      </edge>
-      <edge source="Mindful Investors" target="Market Wire" id="2">
-        <attvalues>
-          <attvalue for="1" value="Advertising" />
-          <attvalue for="2" value="17550000.0" />
-          <attvalue for="3" value="0" />
-        </attvalues>
-      </edge>
-      <edge source="Montreux Equity Partners" target="Market Wire" id="3">
-        <attvalues>
-          <attvalue for="1" value="Advertising" />
-          <attvalue for="2" value="17550000.0" />
-          <attvalue for="3" value="0" />
-        </attvalues>
-      </edge>
-      <edge source="Osprey Ventures" target="Market Wire" id="4">
-        <attvalues>
-          <attvalue for="1" value="Advertising" />
-          <attvalue for="2" value="17550000.0" />
-          <attvalue for="3" value="0" />
-        </attvalues>
-      </edge>
-      <edge source="Perkins Coie" target="Market Wire" id="5">
-        <attvalues>
-          <attvalue for="1" value="Advertising" />
-          <attvalue for="2" value="17550000.0" />
-          <attvalue for="3" value="0" />
-        </attvalues>
-      </edge>
-      <edge source="Sequoia Capital" target="Market Wire" id="6">
-        <attvalues>
-          <attvalue for="1" value="Advertising" />
-          <attvalue for="2" value="17550000.0" />
-          <attvalue for="3" value="0" />
-        </attvalues>
-      </edge>
-      <edge source="Stanford University" target="Market Wire" id="7">
-        <attvalues>
-          <attvalue for="1" value="Advertising" />
-          <attvalue for="2" value="17550000.0" />
-          <attvalue for="3" value="0" />
-        </attvalues>
-      </edge>
-      <edge source="Motorola Solutions Venture Capital" target="Viewpoint Digital" id="8">
-        <attvalues>
-          <attvalue for="1" value="Software" />
+          <attvalue for="1" value="Web Hosting" />
           <attvalue for="2" value="2000000.0" />
           <attvalue for="3" value="0" />
         </attvalues>
       </edge>
-      <edge source="Hummer Winblad" target="Viewpoint Digital" id="9">
+      <edge source="CMGI @Ventures" target="GeoCities" id="1">
         <attvalues>
-          <attvalue for="1" value="Software" />
-          <attvalue for="2" value="13000000.0" />
+          <attvalue for="1" value="Web Hosting" />
+          <attvalue for="2" value="5000000.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sequoia Capital" target="Yahoo!" id="2">
+        <attvalues>
+          <attvalue for="1" value="Photography" />
+          <attvalue for="2" value="2000000.0" />
           <attvalue for="3" value="0" />
         </attvalues>
       </edge>
-      <edge source="Intel" target="Viewpoint Digital" id="10">
+      <edge source="Sequoia Capital" target="Yahoo!" id="3">
+        <attvalues>
+          <attvalue for="1" value="Photography" />
+          <attvalue for="2" value="4800000.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sequoia Capital" target="Google" id="4">
         <attvalues>
           <attvalue for="1" value="Software" />
-          <attvalue for="2" value="13000000.0" />
+          <attvalue for="2" value="25000000.0" />
           <attvalue for="3" value="0" />
         </attvalues>
       </edge>
-      <edge source="Kleiner Perkins Caufield &amp; Byers" target="Viewpoint Digital" id="11">
+      <edge source="Yahoo!" target="GeoCities" id="5">
         <attvalues>
-          <attvalue for="1" value="Software" />
-          <attvalue for="2" value="13000000.0" />
+          <attvalue for="1" value="Web Hosting" />
+          <attvalue for="2" value="25000000.0" />
           <attvalue for="3" value="0" />
         </attvalues>
       </edge>
-      <edge source="eXeed Technology" target="ActionBase" id="12">
+      <edge source="Kleiner Perkins Caufield &amp; Byers" target="Amazon" id="6">
+        <attvalues>
+          <attvalue for="1" value="Consumer Goods" />
+          <attvalue for="2" value="8000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Kleiner Perkins Caufield &amp; Byers" target="Google" id="7">
+        <attvalues>
+          <attvalue for="1" value="Software" />
+          <attvalue for="2" value="25000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Kleiner Perkins Caufield &amp; Byers" target="ServiceMaster Home Service Center" id="8">
+        <attvalues>
+          <attvalue for="1" value="Services" />
+          <attvalue for="2" value="15000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Reuters" target="Yahoo!" id="9">
+        <attvalues>
+          <attvalue for="1" value="Photography" />
+          <attvalue for="2" value="4800000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="SoftBank" target="Yahoo!" id="10">
+        <attvalues>
+          <attvalue for="1" value="Photography" />
+          <attvalue for="2" value="4800000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="SoftBank" target="Morningstar" id="11">
+        <attvalues>
+          <attvalue for="1" value="Investment Management" />
+          <attvalue for="2" value="91000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="AOL" target="XO Group" id="12">
+        <attvalues>
+          <attvalue for="1" value="Media" />
+          <attvalue for="2" value="1600000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="AOL" target="Ancestry" id="13">
+        <attvalues>
+          <attvalue for="1" value="Internet" />
+          <attvalue for="2" value="33200000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Flatiron Partners" target="GeoCities" id="14">
+        <attvalues>
+          <attvalue for="1" value="Web Hosting" />
+          <attvalue for="2" value="8000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Flatiron Partners" target="GeoCities" id="15">
+        <attvalues>
+          <attvalue for="1" value="Web Hosting" />
+          <attvalue for="2" value="5000000.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Flatiron Partners" target="Starbelly.com" id="16">
+        <attvalues>
+          <attvalue for="1" value="E-Commerce" />
+          <attvalue for="2" value="8000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Shamrock Holdings" target="Orad" id="17">
+        <attvalues>
+          <attvalue for="1" value="Security" />
+          <attvalue for="2" value="12000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Smedvig Capital" target="TreFoil Energy" id="18">
+        <attvalues>
+          <attvalue for="1" value="Finance" />
+          <attvalue for="2" value="3930000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Smedvig Capital" target="TreFoil Energy" id="19">
+        <attvalues>
+          <attvalue for="1" value="Finance" />
+          <attvalue for="2" value="2520000.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Smedvig Capital" target="TreFoil Energy" id="20">
+        <attvalues>
+          <attvalue for="1" value="Finance" />
+          <attvalue for="2" value="1500000.0" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Smedvig Capital" target="ITIS Holdings" id="21">
+        <attvalues>
+          <attvalue for="1" value="Software" />
+          <attvalue for="2" value="5708053.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Steps Ventures" target="PowerDsine" id="22">
+        <attvalues>
+          <attvalue for="1" value="VoIP" />
+          <attvalue for="2" value="2400000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="SAIF Partners" target="UTStarcom" id="23">
+        <attvalues>
+          <attvalue for="1" value="Internet" />
+          <attvalue for="2" value="42000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="SAIF Partners" target="UTStarcom" id="24">
+        <attvalues>
+          <attvalue for="1" value="Internet" />
+          <attvalue for="2" value="50000000.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Montgomery &amp; Co" target="Digital Media Broadcast" id="25">
+        <attvalues>
+          <attvalue for="1" value="Digital Media" />
+          <attvalue for="2" value="3100000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="IDG Capital Partners" target="Mtone Wireless" id="26">
+        <attvalues>
+          <attvalue for="1" value="Mobile" />
+          <attvalue for="2" value="9000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="IDG Capital Partners" target="Shipu" id="27">
+        <attvalues>
+          <attvalue for="1" value="Software" />
+          <attvalue for="2" value="1200000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="IDG Capital Partners" target="Guanri" id="28">
+        <attvalues>
+          <attvalue for="1" value="Software" />
+          <attvalue for="2" value="3140000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="IDG Capital Partners" target="kingsky" id="29">
+        <attvalues>
+          <attvalue for="1" value="Software" />
+          <attvalue for="2" value="1800000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="IDG Capital Partners" target="SuperData Research" id="30">
+        <attvalues>
+          <attvalue for="1" value="Market Research" />
+          <attvalue for="2" value="1999069.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="IDG Capital Partners" target="Soufun" id="31">
+        <attvalues>
+          <attvalue for="1" value="Technology" />
+          <attvalue for="2" value="1000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="IDG Capital Partners" target="Tongtech" id="32">
+        <attvalues>
+          <attvalue for="1" value="Software" />
+          <attvalue for="2" value="725135.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="IDG Capital Partners" target="Ctrip" id="33">
+        <attvalues>
+          <attvalue for="1" value="Business Services" />
+          <attvalue for="2" value="500000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="IDG Capital Partners" target="Kingdee" id="34">
+        <attvalues>
+          <attvalue for="1" value="Enterprise Software" />
+          <attvalue for="2" value="2410000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="IDG Capital Partners" target="Boomsense" id="35">
+        <attvalues>
+          <attvalue for="1" value="Web Hosting" />
+          <attvalue for="2" value="3600000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="WI Harper Group" target="Mtone Wireless" id="36">
+        <attvalues>
+          <attvalue for="1" value="Mobile" />
+          <attvalue for="2" value="9000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CIBC World Markets" target="Global Crossing" id="37">
+        <attvalues>
+          <attvalue for="1" value="Telecommunications" />
+          <attvalue for="2" value="41000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Benchmark" target="eBay" id="38">
+        <attvalues>
+          <attvalue for="1" value="Business Services" />
+          <attvalue for="2" value="6700000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Benchmark" target="Opsware" id="39">
+        <attvalues>
+          <attvalue for="1" value="Software" />
+          <attvalue for="2" value="21000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Greylock Partners" target="Mobile Automation" id="40">
+        <attvalues>
+          <attvalue for="1" value="Enterprise Software" />
+          <attvalue for="2" value="2500000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Greylock Partners" target="Mobile Automation" id="41">
+        <attvalues>
+          <attvalue for="1" value="Enterprise Software" />
+          <attvalue for="2" value="2500000.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Funding Global Innovation" target="Sina" id="42">
+        <attvalues>
+          <attvalue for="1" value="Curated Web" />
+          <attvalue for="2" value="6500000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Funding Global Innovation" target="Sina" id="43">
+        <attvalues>
+          <attvalue for="1" value="Curated Web" />
+          <attvalue for="2" value="20000000.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Dawntreader Ventures" target="iPrint" id="44">
+        <attvalues>
+          <attvalue for="1" value="E-Commerce" />
+          <attvalue for="2" value="3300000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Dawntreader Ventures" target="Answers Corporation" id="45">
+        <attvalues>
+          <attvalue for="1" value="Information Technology" />
+          <attvalue for="2" value="2750000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Information Technology Ventures" target="iPrint" id="46">
+        <attvalues>
+          <attvalue for="1" value="E-Commerce" />
+          <attvalue for="2" value="3300000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Jerry Kaplan" target="iPrint" id="47">
+        <attvalues>
+          <attvalue for="1" value="E-Commerce" />
+          <attvalue for="2" value="3300000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Ampal-American Israel" target="PowerDsine" id="48">
+        <attvalues>
+          <attvalue for="1" value="VoIP" />
+          <attvalue for="2" value="3600000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Madrona Venture Group" target="LiveBid" id="49">
+        <attvalues>
+          <attvalue for="1" value="Auctions" />
+          <attvalue for="2" value="1500000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="SoftBank Capital" target="GeoCities" id="50">
+        <attvalues>
+          <attvalue for="1" value="Web Hosting" />
+          <attvalue for="2" value="25000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="SoftBank Capital" target="iPrint" id="51">
+        <attvalues>
+          <attvalue for="1" value="E-Commerce" />
+          <attvalue for="2" value="20000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Vertex Venture Capital" target="PowerDsine" id="52">
+        <attvalues>
+          <attvalue for="1" value="VoIP" />
+          <attvalue for="2" value="3600000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Scott Oki" target="LiveBid" id="53">
+        <attvalues>
+          <attvalue for="1" value="Auctions" />
+          <attvalue for="2" value="1500000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Tom Alberg" target="LiveBid" id="54">
+        <attvalues>
+          <attvalue for="1" value="Auctions" />
+          <attvalue for="2" value="1500000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Columbia Capital" target="Webs" id="55">
+        <attvalues>
+          <attvalue for="1" value="Curated Web" />
+          <attvalue for="2" value="12000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Columbia Capital" target="Affinity" id="56">
         <attvalues>
           <attvalue for="1" value="Advertising" />
+          <attvalue for="2" value="60000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Novak Biddle Venture Partners" target="Webs" id="57">
+        <attvalues>
+          <attvalue for="1" value="Curated Web" />
+          <attvalue for="2" value="12000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Nigel Morris" target="Webs" id="58">
+        <attvalues>
+          <attvalue for="1" value="Curated Web" />
+          <attvalue for="2" value="12000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Hummer Winblad Venture Partners" target="XO Group" id="59">
+        <attvalues>
+          <attvalue for="1" value="Media" />
+          <attvalue for="2" value="3000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Atlas Venture" target="E Ink" id="60">
+        <attvalues>
+          <attvalue for="1" value="Hardware + Software" />
+          <attvalue for="2" value="15800000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Hearst Ventures" target="E Ink" id="61">
+        <attvalues>
+          <attvalue for="1" value="Hardware + Software" />
+          <attvalue for="2" value="15800000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Interpublic Group" target="E Ink" id="62">
+        <attvalues>
+          <attvalue for="1" value="Hardware + Software" />
+          <attvalue for="2" value="15800000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Motorola Solutions" target="E Ink" id="63">
+        <attvalues>
+          <attvalue for="1" value="Hardware + Software" />
+          <attvalue for="2" value="15800000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Allegis Capital" target="Shopzilla" id="64">
+        <attvalues>
+          <attvalue for="1" value="Advertising" />
+          <attvalue for="2" value="4500000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Allegis Capital" target="Shopzilla" id="65">
+        <attvalues>
+          <attvalue for="1" value="Advertising" />
+          <attvalue for="2" value="20000000.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Mission Ventures" target="Shopzilla" id="66">
+        <attvalues>
+          <attvalue for="1" value="Advertising" />
+          <attvalue for="2" value="4500000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Mission Ventures" target="Shopzilla" id="67">
+        <attvalues>
+          <attvalue for="1" value="Advertising" />
+          <attvalue for="2" value="20000000.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Individual Investors" target="Shopzilla" id="68">
+        <attvalues>
+          <attvalue for="1" value="Advertising" />
+          <attvalue for="2" value="4500000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Individual Investors" target="Shopzilla" id="69">
+        <attvalues>
+          <attvalue for="1" value="Advertising" />
+          <attvalue for="2" value="20000000.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Andy Bechtolsheim" target="Google" id="70">
+        <attvalues>
+          <attvalue for="1" value="Software" />
+          <attvalue for="2" value="100000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Jerusalem Venture Partners" target="PowerDsine" id="71">
+        <attvalues>
+          <attvalue for="1" value="VoIP" />
+          <attvalue for="2" value="6000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Poalim Ventures" target="PowerDsine" id="72">
+        <attvalues>
+          <attvalue for="1" value="VoIP" />
+          <attvalue for="2" value="6000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Pina Hirano" target="Infoteria Corporation" id="73">
+        <attvalues>
+          <attvalue for="1" value="Software" />
+          <attvalue for="2" value="200000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Yoshiyuki Kitahara" target="Infoteria Corporation" id="74">
+        <attvalues>
+          <attvalue for="1" value="Software" />
+          <attvalue for="2" value="200000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Sigma Partners" target="Zayante" id="75">
+        <attvalues>
+          <attvalue for="1" value="Software" />
+          <attvalue for="2" value="3000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Sigma Partners" target="Zayante" id="76">
+        <attvalues>
+          <attvalue for="1" value="Software" />
+          <attvalue for="2" value="1500000.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Katarzyna Szubryt" target="Yellow Pages" id="77">
+        <attvalues>
+          <attvalue for="1" value="Search" />
+          <attvalue for="2" value="2000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Roman Szubryt" target="Yellow Pages" id="78">
+        <attvalues>
+          <attvalue for="1" value="Search" />
+          <attvalue for="2" value="2000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Banexi Ventures" target="Kelkoo" id="79">
+        <attvalues>
+          <attvalue for="1" value="E-Commerce" />
+          <attvalue for="2" value="3000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Base Ventures" target="Zappos" id="80">
+        <attvalues>
+          <attvalue for="1" value="Curated Web" />
+          <attvalue for="2" value="150000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Concord Ventures" target="Odin Medical Technologies" id="81">
+        <attvalues>
+          <attvalue for="1" value="Medical" />
+          <attvalue for="2" value="7000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Concord Ventures" target="Dynamics Direct" id="82">
+        <attvalues>
+          <attvalue for="1" value="Advertising Platforms" />
+          <attvalue for="2" value="5500000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Cross Atlantic Capital Partners" target="Automsoft" id="83">
+        <attvalues>
+          <attvalue for="1" value="Analytics" />
+          <attvalue for="2" value="2929046.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Europeatweb" target="gate5" id="84">
+        <attvalues>
+          <attvalue for="1" value="Mobile" />
+          <attvalue for="2" value="5858093.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Innovacom" target="Kelkoo" id="85">
+        <attvalues>
+          <attvalue for="1" value="E-Commerce" />
+          <attvalue for="2" value="3000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Pitango Venture Capital" target="Odin Medical Technologies" id="86">
+        <attvalues>
+          <attvalue for="1" value="Medical" />
+          <attvalue for="2" value="7000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Pitango Venture Capital" target="Dynamics Direct" id="87">
+        <attvalues>
+          <attvalue for="1" value="Advertising Platforms" />
+          <attvalue for="2" value="5500000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Shenzhen Capital Group" target="kingsky" id="88">
+        <attvalues>
+          <attvalue for="1" value="Software" />
+          <attvalue for="2" value="1800000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Star Ventures" target="Odin Medical Technologies" id="89">
+        <attvalues>
+          <attvalue for="1" value="Medical" />
+          <attvalue for="2" value="7000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Star Ventures" target="Trivnet" id="90">
+        <attvalues>
+          <attvalue for="1" value="E-Commerce" />
+          <attvalue for="2" value="12000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="SV Angel" target="Zappos" id="91">
+        <attvalues>
+          <attvalue for="1" value="Curated Web" />
+          <attvalue for="2" value="150000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="SV Angel" target="Tellme" id="92">
+        <attvalues>
+          <attvalue for="1" value="Mobile" />
+          <attvalue for="2" value="6000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="SV Angel" target="Opsware" id="93">
+        <attvalues>
+          <attvalue for="1" value="Software" />
+          <attvalue for="2" value="21000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Walden Israel Venture Capital" target="Odin Medical Technologies" id="94">
+        <attvalues>
+          <attvalue for="1" value="Medical" />
+          <attvalue for="2" value="7000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Zions First National Bank" target="MWI" id="95">
+        <attvalues>
+          <attvalue for="1" value="Web Design" />
+          <attvalue for="2" value="100000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Alain Ferland" target="WANTED Technologies" id="96">
+        <attvalues>
+          <attvalue for="1" value="Analytics" />
           <attvalue for="2" value="400000.0" />
           <attvalue for="3" value="0" />
         </attvalues>
       </edge>
-      <edge source="IDG Capital Partners" target="Infotop" id="13">
+      <edge source="David Tanguay" target="WANTED Technologies" id="97">
         <attvalues>
-          <attvalue for="1" value="Software" />
-          <attvalue for="2" value="340000.0" />
+          <attvalue for="1" value="Analytics" />
+          <attvalue for="2" value="400000.0" />
           <attvalue for="3" value="0" />
         </attvalues>
       </edge>
-      <edge source="Edmond de Rothschild Venture Capital" target="MediaLink" id="14">
+      <edge source="Erik Moore" target="Zappos" id="98">
         <attvalues>
-          <attvalue for="1" value="Consulting" />
-          <attvalue for="2" value="3350000.0" />
+          <attvalue for="1" value="Curated Web" />
+          <attvalue for="2" value="150000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Evan Price" target="WANTED Technologies" id="99">
+        <attvalues>
+          <attvalue for="1" value="Analytics" />
+          <attvalue for="2" value="400000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="George Lindeman" target="Addashop" id="100">
+        <attvalues>
+          <attvalue for="1" value="E-Commerce" />
+          <attvalue for="2" value="3000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Halsey Minor" target="Salesforce" id="101">
+        <attvalues>
+          <attvalue for="1" value="Software" />
+          <attvalue for="2" value="4000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Kevin Parker" target="Next Jump" id="102">
+        <attvalues>
+          <attvalue for="1" value="Human Resources" />
+          <attvalue for="2" value="15000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Larry Ellison" target="Salesforce" id="103">
+        <attvalues>
+          <attvalue for="1" value="Software" />
+          <attvalue for="2" value="4000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Magdalena Yesil" target="Salesforce" id="104">
+        <attvalues>
+          <attvalue for="1" value="Software" />
+          <attvalue for="2" value="4000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Mark Tebbe" target="Answers Corporation" id="105">
+        <attvalues>
+          <attvalue for="1" value="Information Technology" />
+          <attvalue for="2" value="300000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Mort Meyerson" target="Answers Corporation" id="106">
+        <attvalues>
+          <attvalue for="1" value="Information Technology" />
+          <attvalue for="2" value="300000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Nick Merrick" target="WANTED Technologies" id="107">
+        <attvalues>
+          <attvalue for="1" value="Analytics" />
+          <attvalue for="2" value="400000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Virgilio Degiovanni" target="Addashop" id="108">
+        <attvalues>
+          <attvalue for="1" value="E-Commerce" />
+          <attvalue for="2" value="3000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Yossi Vardi" target="Answers Corporation" id="109">
+        <attvalues>
+          <attvalue for="1" value="Information Technology" />
+          <attvalue for="2" value="300000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Canaan Partners" target="iPrint" id="110">
+        <attvalues>
+          <attvalue for="1" value="E-Commerce" />
+          <attvalue for="2" value="7500000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Highland Capital Partners" target="Ask.com" id="111">
+        <attvalues>
+          <attvalue for="1" value="Social Media" />
+          <attvalue for="2" value="25000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Institutional Venture Partners (IVP)" target="Ask.com" id="112">
+        <attvalues>
+          <attvalue for="1" value="Social Media" />
+          <attvalue for="2" value="25000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Institutional Venture Partners (IVP)" target="OurHouse" id="113">
+        <attvalues>
+          <attvalue for="1" value="Retail" />
+          <attvalue for="2" value="20000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Intel" target="iPrint" id="114">
+        <attvalues>
+          <attvalue for="1" value="E-Commerce" />
+          <attvalue for="2" value="7500000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Intel Capital" target="Mtone Wireless" id="115">
+        <attvalues>
+          <attvalue for="1" value="Mobile" />
+          <attvalue for="2" value="12000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Intel Capital" target="SuperData Research" id="116">
+        <attvalues>
+          <attvalue for="1" value="Market Research" />
+          <attvalue for="2" value="1999069.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Intel Capital" target="Shipu" id="117">
+        <attvalues>
+          <attvalue for="1" value="Software" />
+          <attvalue for="2" value="1500000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Intel Capital" target="UTStarcom" id="118">
+        <attvalues>
+          <attvalue for="1" value="Internet" />
+          <attvalue for="2" value="40000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Intersouth Partners" target="Sentillion" id="119">
+        <attvalues>
+          <attvalue for="1" value="Health and Wellness" />
+          <attvalue for="2" value="2700000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Newbury Ventures" target="Sentillion" id="120">
+        <attvalues>
+          <attvalue for="1" value="Health and Wellness" />
+          <attvalue for="2" value="2700000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Polaris Partners" target="Sentillion" id="121">
+        <attvalues>
+          <attvalue for="1" value="Health and Wellness" />
+          <attvalue for="2" value="2700000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Dynafund Ventures" target="Cooking.com" id="122">
+        <attvalues>
+          <attvalue for="1" value="Recipes" />
+          <attvalue for="2" value="16000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Dynafund Ventures" target="Cooking.com" id="123">
+        <attvalues>
+          <attvalue for="1" value="Recipes" />
+          <attvalue for="2" value="30000000.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Forrest Binkley and Brown" target="Cooking.com" id="124">
+        <attvalues>
+          <attvalue for="1" value="Recipes" />
+          <attvalue for="2" value="16000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Forrest Binkley and Brown" target="Cooking.com" id="125">
+        <attvalues>
+          <attvalue for="1" value="Recipes" />
+          <attvalue for="2" value="30000000.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Idealab" target="Cooking.com" id="126">
+        <attvalues>
+          <attvalue for="1" value="Recipes" />
+          <attvalue for="2" value="16000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Idealab" target="Cooking.com" id="127">
+        <attvalues>
+          <attvalue for="1" value="Recipes" />
+          <attvalue for="2" value="30000000.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Moore Capital" target="Cooking.com" id="128">
+        <attvalues>
+          <attvalue for="1" value="Recipes" />
+          <attvalue for="2" value="16000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Moore Capital" target="Cooking.com" id="129">
+        <attvalues>
+          <attvalue for="1" value="Recipes" />
+          <attvalue for="2" value="30000000.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Phillips Smith Specialty Group" target="Cooking.com" id="130">
+        <attvalues>
+          <attvalue for="1" value="Recipes" />
+          <attvalue for="2" value="16000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Phillips Smith Specialty Group" target="Cooking.com" id="131">
+        <attvalues>
+          <attvalue for="1" value="Recipes" />
+          <attvalue for="2" value="30000000.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Times Mirror Company" target="Cooking.com" id="132">
+        <attvalues>
+          <attvalue for="1" value="Recipes" />
+          <attvalue for="2" value="16000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Times Mirror Company" target="Cooking.com" id="133">
+        <attvalues>
+          <attvalue for="1" value="Recipes" />
+          <attvalue for="2" value="30000000.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Tredegar Investments" target="Cooking.com" id="134">
+        <attvalues>
+          <attvalue for="1" value="Recipes" />
+          <attvalue for="2" value="16000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Tredegar Investments" target="Cooking.com" id="135">
+        <attvalues>
+          <attvalue for="1" value="Recipes" />
+          <attvalue for="2" value="30000000.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Tredegar Investments" target="Ewireless" id="136">
+        <attvalues>
+          <attvalue for="1" value="Wireless" />
+          <attvalue for="2" value="4500000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Vanguard Ventures" target="Cooking.com" id="137">
+        <attvalues>
+          <attvalue for="1" value="Recipes" />
+          <attvalue for="2" value="16000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Vanguard Ventures" target="Cooking.com" id="138">
+        <attvalues>
+          <attvalue for="1" value="Recipes" />
+          <attvalue for="2" value="30000000.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Bob Lessin" target="Answers Corporation" id="139">
+        <attvalues>
+          <attvalue for="1" value="Information Technology" />
+          <attvalue for="2" value="1360000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="John Sculley" target="Answers Corporation" id="140">
+        <attvalues>
+          <attvalue for="1" value="Information Technology" />
+          <attvalue for="2" value="1360000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Jon Medved" target="Answers Corporation" id="141">
+        <attvalues>
+          <attvalue for="1" value="Information Technology" />
+          <attvalue for="2" value="1360000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Michael Parekh" target="Answers Corporation" id="142">
+        <attvalues>
+          <attvalue for="1" value="Information Technology" />
+          <attvalue for="2" value="1360000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Ron Conway" target="Answers Corporation" id="143">
+        <attvalues>
+          <attvalue for="1" value="Information Technology" />
+          <attvalue for="2" value="1360000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="LBB Capital Fund GmbH" target="Linkedwith" id="144">
+        <attvalues>
+          <attvalue for="1" value="Mobile" />
+          <attvalue for="2" value="2000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="LBB Seed Capital Fund GmbH" target="Linkedwith" id="145">
+        <attvalues>
+          <attvalue for="1" value="Mobile" />
+          <attvalue for="2" value="2000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="QVC" target="XO Group" id="146">
+        <attvalues>
+          <attvalue for="1" value="Media" />
+          <attvalue for="2" value="15000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Draper Richards" target="OpenTable" id="147">
+        <attvalues>
+          <attvalue for="1" value="Business Services" />
+          <attvalue for="2" value="2000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Draper Richards" target="SquareTrade" id="148">
+        <attvalues>
+          <attvalue for="1" value="Hardware + Software" />
+          <attvalue for="2" value="400000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Scottish Equity Partners (SEP)" target="Cyclacel Pharmaceuticals" id="149">
+        <attvalues>
+          <attvalue for="1" value="Biotechnology" />
+          <attvalue for="2" value="8063460.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Venture Frogs" target="OpenTable" id="150">
+        <attvalues>
+          <attvalue for="1" value="Business Services" />
+          <attvalue for="2" value="2000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Attractor Investment Management" target="Shopzilla" id="151">
+        <attvalues>
+          <attvalue for="1" value="Advertising" />
+          <attvalue for="2" value="20000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Hambrecht &amp; Quist Capital Management" target="Shopzilla" id="152">
+        <attvalues>
+          <attvalue for="1" value="Advertising" />
+          <attvalue for="2" value="20000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Goldman Sachs" target="Tunes.com" id="153">
+        <attvalues>
+          <attvalue for="1" value="E-Commerce" />
+          <attvalue for="2" value="15100000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Goldman Sachs" target="Alibaba" id="154">
+        <attvalues>
+          <attvalue for="1" value="E-Commerce" />
+          <attvalue for="2" value="5000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Ali Partovi" target="Tellme" id="155">
+        <attvalues>
+          <attvalue for="1" value="Mobile" />
+          <attvalue for="2" value="6000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Frank Marshall" target="VivaSmart" id="156">
+        <attvalues>
+          <attvalue for="1" value="Curated Web" />
+          <attvalue for="2" value="250000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Hadi Partovi" target="Tellme" id="157">
+        <attvalues>
+          <attvalue for="1" value="Mobile" />
+          <attvalue for="2" value="6000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="JupiterMedia Corporation" target="Studio Systems" id="158">
+        <attvalues>
+          <attvalue for="1" value="Television" />
+          <attvalue for="2" value="1000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Bluehawk Capital" target="Search123" id="159">
+        <attvalues>
+          <attvalue for="1" value="Services" />
+          <attvalue for="2" value="3500000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Asset Management Company" target="Prime Advantage" id="160">
+        <attvalues>
+          <attvalue for="1" value="Manufacturing" />
+          <attvalue for="2" value="800000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Staenberg Venture Partners" target="Prime Advantage" id="161">
+        <attvalues>
+          <attvalue for="1" value="Manufacturing" />
+          <attvalue for="2" value="800000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="BlueRun Ventures" target="PayPal" id="162">
+        <attvalues>
+          <attvalue for="1" value="Payments" />
+          <attvalue for="2" value="4000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Group Arnault" target="Netflix" id="163">
+        <attvalues>
+          <attvalue for="1" value="Consumer Electronics" />
+          <attvalue for="2" value="30000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Nokia Ventures" target="PayPal" id="164">
+        <attvalues>
+          <attvalue for="1" value="Payments" />
+          <attvalue for="2" value="3000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Ace Hardware" target="OurHouse" id="165">
+        <attvalues>
+          <attvalue for="1" value="Retail" />
+          <attvalue for="2" value="5300000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Gabriel Venture Partners" target="Shoplocal" id="166">
+        <attvalues>
+          <attvalue for="1" value="Shopping" />
+          <attvalue for="2" value="2000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Gabriel Venture Partners" target="Shoplocal" id="167">
+        <attvalues>
+          <attvalue for="1" value="Shopping" />
+          <attvalue for="2" value="5250000.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Gabriel Venture Partners" target="Jell Creative" id="168">
+        <attvalues>
+          <attvalue for="1" value="Messaging" />
+          <attvalue for="2" value="2000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Gabriel Venture Partners" target="Jell Creative" id="169">
+        <attvalues>
+          <attvalue for="1" value="Messaging" />
+          <attvalue for="2" value="5250000.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Trident Capital" target="Shoplocal" id="170">
+        <attvalues>
+          <attvalue for="1" value="Shopping" />
+          <attvalue for="2" value="2000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Trident Capital" target="Shoplocal" id="171">
+        <attvalues>
+          <attvalue for="1" value="Shopping" />
+          <attvalue for="2" value="5250000.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Trident Capital" target="Jell Creative" id="172">
+        <attvalues>
+          <attvalue for="1" value="Messaging" />
+          <attvalue for="2" value="2000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Trident Capital" target="Jell Creative" id="173">
+        <attvalues>
+          <attvalue for="1" value="Messaging" />
+          <attvalue for="2" value="5250000.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Trident Capital" target="Boats.com" id="174">
+        <attvalues>
+          <attvalue for="1" value="Curated Web" />
+          <attvalue for="2" value="6000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Commonwealth Capital Ventures" target="Direct Hit" id="175">
+        <attvalues>
+          <attvalue for="1" value="Search" />
+          <attvalue for="2" value="26000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="TA Associates" target="Direct Hit" id="176">
+        <attvalues>
+          <attvalue for="1" value="Search" />
+          <attvalue for="2" value="26000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="DFJ Tamir Fishman Ventures" target="Dynamics Direct" id="177">
+        <attvalues>
+          <attvalue for="1" value="Advertising Platforms" />
+          <attvalue for="2" value="5500000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="JPMorgan Partners (JPMP)" target="Dynamics Direct" id="178">
+        <attvalues>
+          <attvalue for="1" value="Advertising Platforms" />
+          <attvalue for="2" value="5500000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="JPMorgan Partners (JPMP)" target="Studio Systems" id="179">
+        <attvalues>
+          <attvalue for="1" value="Television" />
+          <attvalue for="2" value="25000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="ARCH Venture Partners" target="Teach.com" id="180">
+        <attvalues>
+          <attvalue for="1" value="Education" />
+          <attvalue for="2" value="4600000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Heidelberg Innovation" target="MTM Laboratories" id="181">
+        <attvalues>
+          <attvalue for="1" value="Biotechnology" />
+          <attvalue for="2" value="1672640.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Mannheim Holdings" target="MTM Laboratories" id="182">
+        <attvalues>
+          <attvalue for="1" value="Biotechnology" />
+          <attvalue for="2" value="1672640.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Tribune Ventures" target="Teach.com" id="183">
+        <attvalues>
+          <attvalue for="1" value="Education" />
+          <attvalue for="2" value="4600000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Origin Ventures" target="iNest Realty" id="184">
+        <attvalues>
+          <attvalue for="1" value="Real Estate" />
+          <attvalue for="2" value="500000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Amerindo Investment Advisors" target="Ancestry" id="185">
+        <attvalues>
+          <attvalue for="1" value="Internet" />
+          <attvalue for="2" value="33200000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Austin Ventures" target="ACTIVE Network" id="186">
+        <attvalues>
+          <attvalue for="1" value="Software" />
+          <attvalue for="2" value="200000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Austin Ventures" target="ACTIVE Network" id="187">
+        <attvalues>
+          <attvalue for="1" value="Software" />
+          <attvalue for="2" value="15500000.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Compaq" target="Ancestry" id="188">
+        <attvalues>
+          <attvalue for="1" value="Internet" />
+          <attvalue for="2" value="33200000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Garage Technology Ventures" target="Answers Corporation" id="189">
+        <attvalues>
+          <attvalue for="1" value="Information Technology" />
+          <attvalue for="2" value="2750000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Israel Seed Partners" target="Answers Corporation" id="190">
+        <attvalues>
+          <attvalue for="1" value="Information Technology" />
+          <attvalue for="2" value="2750000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Pivotal Private Equity" target="Ancestry" id="191">
+        <attvalues>
+          <attvalue for="1" value="Internet" />
+          <attvalue for="2" value="33200000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Chase Capital Partners" target="Starbelly.com" id="192">
+        <attvalues>
+          <attvalue for="1" value="E-Commerce" />
+          <attvalue for="2" value="8000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Mobius Venture Capital" target="StartSampling" id="193">
+        <attvalues>
+          <attvalue for="1" value="Technology" />
+          <attvalue for="2" value="860000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Brentwood Venture Capital" target="OurHouse" id="194">
+        <attvalues>
+          <attvalue for="1" value="Retail" />
+          <attvalue for="2" value="20000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Mayfield Fund" target="Boats.com" id="195">
+        <attvalues>
+          <attvalue for="1" value="Curated Web" />
+          <attvalue for="2" value="6000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Mayfield Fund" target="Snapfish" id="196">
+        <attvalues>
+          <attvalue for="1" value="Photography" />
+          <attvalue for="2" value="7500000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Technology Crossover Ventures" target="OurHouse" id="197">
+        <attvalues>
+          <attvalue for="1" value="Retail" />
+          <attvalue for="2" value="20000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Fidelity Growth Partners Asia" target="Alibaba" id="198">
+        <attvalues>
+          <attvalue for="1" value="E-Commerce" />
+          <attvalue for="2" value="5000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Navigation Capital" target="Cooking.com" id="199">
+        <attvalues>
+          <attvalue for="1" value="Recipes" />
+          <attvalue for="2" value="30000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="NetWorth Partners" target="Cooking.com" id="200">
+        <attvalues>
+          <attvalue for="1" value="Recipes" />
+          <attvalue for="2" value="30000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Pamlico Capital" target="Affinity" id="201">
+        <attvalues>
+          <attvalue for="1" value="Advertising" />
+          <attvalue for="2" value="60000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Bedrock Capital Partners" target="Ewireless" id="202">
+        <attvalues>
+          <attvalue for="1" value="Wireless" />
+          <attvalue for="2" value="4500000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="AT&amp;T Intellectual Property" target="iPrint" id="203">
+        <attvalues>
+          <attvalue for="1" value="E-Commerce" />
+          <attvalue for="2" value="20000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Ares Management" target="Studio Systems" id="204">
+        <attvalues>
+          <attvalue for="1" value="Television" />
+          <attvalue for="2" value="25000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="East River Ventures" target="Studio Systems" id="205">
+        <attvalues>
+          <attvalue for="1" value="Television" />
+          <attvalue for="2" value="25000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="SunAmerica Ventures" target="Studio Systems" id="206">
+        <attvalues>
+          <attvalue for="1" value="Television" />
+          <attvalue for="2" value="25000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="BEIID" target="UTStarcom" id="207">
+        <attvalues>
+          <attvalue for="1" value="Internet" />
+          <attvalue for="2" value="40000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Plataforma Capital Partners" target="Buscapé" id="208">
+        <attvalues>
+          <attvalue for="1" value="E-Commerce" />
+          <attvalue for="2" value="500000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Kettle Partners" target="MusicNow" id="209">
+        <attvalues>
+          <attvalue for="1" value="Music" />
+          <attvalue for="2" value="4530000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Kettle Partners" target="ACTIVE Network" id="210">
+        <attvalues>
+          <attvalue for="1" value="Software" />
+          <attvalue for="2" value="15500000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="New Enterprise Associates" target="MusicNow" id="211">
+        <attvalues>
+          <attvalue for="1" value="Music" />
+          <attvalue for="2" value="4530000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="BNDES" target="Visionnaire" id="212">
+        <attvalues>
+          <attvalue for="1" value="Mobile" />
+          <attvalue for="2" value="1000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="First Analysis Venture Capital" target="Go2call.com" id="213">
+        <attvalues>
+          <attvalue for="1" value="VoIP" />
+          <attvalue for="2" value="3000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Lehman Brothers" target="SideStep" id="214">
+        <attvalues>
+          <attvalue for="1" value="Hotels" />
+          <attvalue for="2" value="2200000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Ticketmaster" target="ACTIVE Network" id="215">
+        <attvalues>
+          <attvalue for="1" value="Software" />
+          <attvalue for="2" value="15500000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Ticketmaster" target="ACTIVE Network" id="216">
+        <attvalues>
+          <attvalue for="1" value="Software" />
+          <attvalue for="2" value="3000000.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="William Blair New World Ventures" target="ACTIVE Network" id="217">
+        <attvalues>
+          <attvalue for="1" value="Software" />
+          <attvalue for="2" value="15500000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Dustin Coupal" target="GasBuddy" id="218">
+        <attvalues>
+          <attvalue for="1" value="Mobile" />
+          <attvalue for="2" value="4000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Jason Toews" target="GasBuddy" id="219">
+        <attvalues>
+          <attvalue for="1" value="Mobile" />
+          <attvalue for="2" value="4000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Igor Sill" target="Salesforce" id="220">
+        <attvalues>
+          <attvalue for="1" value="Software" />
+          <attvalue for="2" value="17000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="John Friedenrich" target="Salesforce" id="221">
+        <attvalues>
+          <attvalue for="1" value="Software" />
+          <attvalue for="2" value="17000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Patrick McGovern" target="Salesforce" id="222">
+        <attvalues>
+          <attvalue for="1" value="Software" />
+          <attvalue for="2" value="17000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="William Hambrecht" target="Salesforce" id="223">
+        <attvalues>
+          <attvalue for="1" value="Software" />
+          <attvalue for="2" value="17000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Gaiacom" target="Gaiacom Wireless Networks" id="224">
+        <attvalues>
+          <attvalue for="1" value="Mobile" />
+          <attvalue for="2" value="500000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="China Development Industrial Bank (CDIB)" target="Trivnet" id="225">
+        <attvalues>
+          <attvalue for="1" value="E-Commerce" />
+          <attvalue for="2" value="12000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Magma Venture Partners" target="Trivnet" id="226">
+        <attvalues>
+          <attvalue for="1" value="E-Commerce" />
+          <attvalue for="2" value="12000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="SingTel" target="Trivnet" id="227">
+        <attvalues>
+          <attvalue for="1" value="E-Commerce" />
+          <attvalue for="2" value="12000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Viventures" target="Trivnet" id="228">
+        <attvalues>
+          <attvalue for="1" value="E-Commerce" />
+          <attvalue for="2" value="12000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Barrington Partners" target="Goldpocket Interactive" id="229">
+        <attvalues>
+          <attvalue for="1" value="Software" />
+          <attvalue for="2" value="8000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Comdisco Ventures" target="OurHouse" id="230">
+        <attvalues>
+          <attvalue for="1" value="Retail" />
+          <attvalue for="2" value="30000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="New England Partners" target="Goldpocket Interactive" id="231">
+        <attvalues>
+          <attvalue for="1" value="Software" />
+          <attvalue for="2" value="8000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Transamerica Technology Finance" target="OurHouse" id="232">
+        <attvalues>
+          <attvalue for="1" value="Retail" />
+          <attvalue for="2" value="30000000.0" />
           <attvalue for="3" value="0" />
         </attvalues>
       </edge>
