@@ -1,0 +1,457 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-06-09">
+    <creator>NetworkX 2.8</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="Sector" type="string" />
+    </attributes>
+    <nodes>
+      <node id="CMGI @Ventures" label="CMGI @Ventures" />
+      <node id="Flatiron Partners" label="Flatiron Partners" />
+      <node id="SoftBank Capital" label="SoftBank Capital" />
+      <node id="Yahoo!" label="Yahoo!">
+        <attvalues>
+          <attvalue for="0" value="Photography" />
+        </attvalues>
+      </node>
+      <node id="Sequoia Capital" label="Sequoia Capital" />
+      <node id="Reuters" label="Reuters" />
+      <node id="SoftBank" label="SoftBank" />
+      <node id="AOL" label="AOL" />
+      <node id="Hummer Winblad Venture Partners" label="Hummer Winblad Venture Partners" />
+      <node id="QVC" label="QVC" />
+      <node id="Steps Ventures" label="Steps Ventures" />
+      <node id="Ampal-American Israel" label="Ampal-American Israel" />
+      <node id="Vertex Venture Capital" label="Vertex Venture Capital" />
+      <node id="Jerusalem Venture Partners" label="Jerusalem Venture Partners" />
+      <node id="Poalim Ventures" label="Poalim Ventures" />
+      <node id="SAIF Partners" label="SAIF Partners" />
+      <node id="BEIID" label="BEIID" />
+      <node id="Intel Capital" label="Intel Capital" />
+      <node id="IDG Capital Partners" label="IDG Capital Partners" />
+      <node id="WI Harper Group" label="WI Harper Group" />
+      <node id="Dawntreader Ventures" label="Dawntreader Ventures" />
+      <node id="Information Technology Ventures" label="Information Technology Ventures" />
+      <node id="Jerry Kaplan" label="Jerry Kaplan" />
+      <node id="Canaan Partners" label="Canaan Partners" />
+      <node id="Intel" label="Intel" />
+      <node id="AT&amp;T Intellectual Property" label="AT&amp;T Intellectual Property" />
+      <node id="Madrona Venture Group" label="Madrona Venture Group" />
+      <node id="Scott Oki" label="Scott Oki" />
+      <node id="Tom Alberg" label="Tom Alberg" />
+      <node id="Columbia Capital" label="Columbia Capital" />
+      <node id="Novak Biddle Venture Partners" label="Novak Biddle Venture Partners" />
+      <node id="Nigel Morris" label="Nigel Morris" />
+      <node id="Atlas Venture" label="Atlas Venture" />
+      <node id="Hearst Ventures" label="Hearst Ventures" />
+      <node id="Interpublic Group" label="Interpublic Group" />
+      <node id="Motorola Solutions" label="Motorola Solutions" />
+      <node id="Allegis Capital" label="Allegis Capital" />
+      <node id="Mission Ventures" label="Mission Ventures" />
+      <node id="Individual Investors" label="Individual Investors" />
+      <node id="Attractor Investment Management" label="Attractor Investment Management" />
+      <node id="Hambrecht &amp; Quist Capital Management" label="Hambrecht &amp; Quist Capital Management" />
+      <node id="Andy Bechtolsheim" label="Andy Bechtolsheim" />
+      <node id="Kleiner Perkins Caufield &amp; Byers" label="Kleiner Perkins Caufield &amp; Byers" />
+      <node id="Pina Hirano" label="Pina Hirano" />
+      <node id="Yoshiyuki Kitahara" label="Yoshiyuki Kitahara" />
+      <node id="Katarzyna Szubryt" label="Katarzyna Szubryt" />
+      <node id="Roman Szubryt" label="Roman Szubryt" />
+      <node id="Banexi Ventures" label="Banexi Ventures" />
+      <node id="Innovacom" label="Innovacom" />
+      <node id="Base Ventures" label="Base Ventures" />
+      <node id="SV Angel" label="SV Angel" />
+      <node id="Erik Moore" label="Erik Moore" />
+      <node id="Concord Ventures" label="Concord Ventures" />
+      <node id="Pitango Venture Capital" label="Pitango Venture Capital" />
+      <node id="Star Ventures" label="Star Ventures" />
+      <node id="Walden Israel Venture Capital" label="Walden Israel Venture Capital" />
+      <node id="Shenzhen Capital Group" label="Shenzhen Capital Group" />
+      <node id="Alain Ferland" label="Alain Ferland" />
+      <node id="David Tanguay" label="David Tanguay" />
+      <node id="Evan Price" label="Evan Price" />
+      <node id="Nick Merrick" label="Nick Merrick" />
+      <node id="George Lindeman" label="George Lindeman" />
+      <node id="Virgilio Degiovanni" label="Virgilio Degiovanni" />
+      <node id="Halsey Minor" label="Halsey Minor" />
+      <node id="Larry Ellison" label="Larry Ellison" />
+      <node id="Magdalena Yesil" label="Magdalena Yesil" />
+      <node id="Igor Sill" label="Igor Sill" />
+      <node id="John Friedenrich" label="John Friedenrich" />
+      <node id="Patrick McGovern" label="Patrick McGovern" />
+      <node id="William Hambrecht" label="William Hambrecht" />
+      <node id="Mark Tebbe" label="Mark Tebbe" />
+      <node id="Mort Meyerson" label="Mort Meyerson" />
+      <node id="Yossi Vardi" label="Yossi Vardi" />
+      <node id="Bob Lessin" label="Bob Lessin" />
+      <node id="John Sculley" label="John Sculley" />
+      <node id="Jon Medved" label="Jon Medved" />
+      <node id="Michael Parekh" label="Michael Parekh" />
+      <node id="Ron Conway" label="Ron Conway" />
+      <node id="Garage Technology Ventures" label="Garage Technology Ventures" />
+      <node id="Israel Seed Partners" label="Israel Seed Partners" />
+      <node id="Highland Capital Partners" label="Highland Capital Partners" />
+      <node id="Institutional Venture Partners (IVP)" label="Institutional Venture Partners (IVP)" />
+      <node id="Intersouth Partners" label="Intersouth Partners" />
+      <node id="Newbury Ventures" label="Newbury Ventures" />
+      <node id="Polaris Partners" label="Polaris Partners" />
+      <node id="Dynafund Ventures" label="Dynafund Ventures" />
+      <node id="Forrest Binkley and Brown" label="Forrest Binkley and Brown" />
+      <node id="Idealab" label="Idealab" />
+      <node id="Moore Capital" label="Moore Capital" />
+      <node id="Phillips Smith Specialty Group" label="Phillips Smith Specialty Group" />
+      <node id="Times Mirror Company" label="Times Mirror Company" />
+      <node id="Tredegar Investments" label="Tredegar Investments" />
+      <node id="Vanguard Ventures" label="Vanguard Ventures" />
+      <node id="Navigation Capital" label="Navigation Capital" />
+      <node id="NetWorth Partners" label="NetWorth Partners" />
+      <node id="LBB Capital Fund GmbH" label="LBB Capital Fund GmbH" />
+      <node id="LBB Seed Capital Fund GmbH" label="LBB Seed Capital Fund GmbH" />
+      <node id="Draper Richards" label="Draper Richards" />
+      <node id="Venture Frogs" label="Venture Frogs" />
+      <node id="Ali Partovi" label="Ali Partovi" />
+      <node id="Hadi Partovi" label="Hadi Partovi" />
+      <node id="JupiterMedia Corporation" label="JupiterMedia Corporation" />
+      <node id="Ares Management" label="Ares Management" />
+      <node id="East River Ventures" label="East River Ventures" />
+      <node id="JPMorgan Partners (JPMP)" label="JPMorgan Partners (JPMP)" />
+      <node id="SunAmerica Ventures" label="SunAmerica Ventures" />
+      <node id="Asset Management Company" label="Asset Management Company" />
+      <node id="Staenberg Venture Partners" label="Staenberg Venture Partners" />
+      <node id="BlueRun Ventures" label="BlueRun Ventures" />
+      <node id="Nokia Ventures" label="Nokia Ventures" />
+      <node id="Ace Hardware" label="Ace Hardware" />
+      <node id="Brentwood Venture Capital" label="Brentwood Venture Capital" />
+      <node id="Technology Crossover Ventures" label="Technology Crossover Ventures" />
+      <node id="Comdisco Ventures" label="Comdisco Ventures" />
+      <node id="Transamerica Technology Finance" label="Transamerica Technology Finance" />
+      <node id="Gabriel Venture Partners" label="Gabriel Venture Partners" />
+      <node id="Trident Capital" label="Trident Capital" />
+      <node id="Commonwealth Capital Ventures" label="Commonwealth Capital Ventures" />
+      <node id="TA Associates" label="TA Associates" />
+      <node id="DFJ Tamir Fishman Ventures" label="DFJ Tamir Fishman Ventures" />
+      <node id="ARCH Venture Partners" label="ARCH Venture Partners" />
+      <node id="Tribune Ventures" label="Tribune Ventures" />
+      <node id="Heidelberg Innovation" label="Heidelberg Innovation" />
+      <node id="Mannheim Holdings" label="Mannheim Holdings" />
+      <node id="Amerindo Investment Advisors" label="Amerindo Investment Advisors" />
+      <node id="Compaq" label="Compaq" />
+      <node id="Pivotal Private Equity" label="Pivotal Private Equity" />
+      <node id="Austin Ventures" label="Austin Ventures" />
+      <node id="Kettle Partners" label="Kettle Partners" />
+      <node id="Ticketmaster" label="Ticketmaster" />
+      <node id="William Blair New World Ventures" label="William Blair New World Ventures" />
+      <node id="Chase Capital Partners" label="Chase Capital Partners" />
+      <node id="Mayfield Fund" label="Mayfield Fund" />
+      <node id="Pamlico Capital" label="Pamlico Capital" />
+      <node id="Fidelity Growth Partners Asia" label="Fidelity Growth Partners Asia" />
+      <node id="Goldman Sachs" label="Goldman Sachs" />
+      <node id="Bedrock Capital Partners" label="Bedrock Capital Partners" />
+      <node id="Benchmark" label="Benchmark" />
+      <node id="New Enterprise Associates" label="New Enterprise Associates" />
+      <node id="Dustin Coupal" label="Dustin Coupal" />
+      <node id="Jason Toews" label="Jason Toews" />
+      <node id="China Development Industrial Bank (CDIB)" label="China Development Industrial Bank (CDIB)" />
+      <node id="Magma Venture Partners" label="Magma Venture Partners" />
+      <node id="SingTel" label="SingTel" />
+      <node id="Viventures" label="Viventures" />
+      <node id="Barrington Partners" label="Barrington Partners" />
+      <node id="New England Partners" label="New England Partners" />
+    </nodes>
+    <edges>
+      <edge source="CMGI @Ventures" target="Flatiron Partners" id="0" />
+      <edge source="CMGI @Ventures" target="SoftBank Capital" id="1" />
+      <edge source="CMGI @Ventures" target="Yahoo!" id="2" />
+      <edge source="Flatiron Partners" target="SoftBank Capital" id="3" />
+      <edge source="Flatiron Partners" target="Yahoo!" id="4" />
+      <edge source="Flatiron Partners" target="Chase Capital Partners" id="5" />
+      <edge source="SoftBank Capital" target="Yahoo!" id="6" />
+      <edge source="SoftBank Capital" target="Dawntreader Ventures" id="7" />
+      <edge source="SoftBank Capital" target="Information Technology Ventures" id="8" />
+      <edge source="SoftBank Capital" target="Jerry Kaplan" id="9" />
+      <edge source="SoftBank Capital" target="Canaan Partners" id="10" />
+      <edge source="SoftBank Capital" target="Intel" id="11" />
+      <edge source="SoftBank Capital" target="AT&amp;T Intellectual Property" id="12" />
+      <edge source="Sequoia Capital" target="Reuters" id="13" />
+      <edge source="Sequoia Capital" target="SoftBank" id="14" />
+      <edge source="Sequoia Capital" target="Andy Bechtolsheim" id="15" />
+      <edge source="Sequoia Capital" target="Kleiner Perkins Caufield &amp; Byers" id="16" />
+      <edge source="Reuters" target="SoftBank" id="17" />
+      <edge source="AOL" target="Hummer Winblad Venture Partners" id="18" />
+      <edge source="AOL" target="QVC" id="19" />
+      <edge source="AOL" target="Amerindo Investment Advisors" id="20" />
+      <edge source="AOL" target="Compaq" id="21" />
+      <edge source="AOL" target="Pivotal Private Equity" id="22" />
+      <edge source="Hummer Winblad Venture Partners" target="QVC" id="23" />
+      <edge source="Steps Ventures" target="Ampal-American Israel" id="24" />
+      <edge source="Steps Ventures" target="Vertex Venture Capital" id="25" />
+      <edge source="Steps Ventures" target="Jerusalem Venture Partners" id="26" />
+      <edge source="Steps Ventures" target="Poalim Ventures" id="27" />
+      <edge source="Ampal-American Israel" target="Vertex Venture Capital" id="28" />
+      <edge source="Ampal-American Israel" target="Jerusalem Venture Partners" id="29" />
+      <edge source="Ampal-American Israel" target="Poalim Ventures" id="30" />
+      <edge source="Vertex Venture Capital" target="Jerusalem Venture Partners" id="31" />
+      <edge source="Vertex Venture Capital" target="Poalim Ventures" id="32" />
+      <edge source="Jerusalem Venture Partners" target="Poalim Ventures" id="33" />
+      <edge source="SAIF Partners" target="BEIID" id="34" />
+      <edge source="SAIF Partners" target="Intel Capital" id="35" />
+      <edge source="BEIID" target="Intel Capital" id="36" />
+      <edge source="Intel Capital" target="IDG Capital Partners" id="37" />
+      <edge source="Intel Capital" target="WI Harper Group" id="38" />
+      <edge source="IDG Capital Partners" target="WI Harper Group" id="39" />
+      <edge source="IDG Capital Partners" target="Shenzhen Capital Group" id="40" />
+      <edge source="Dawntreader Ventures" target="Information Technology Ventures" id="41" />
+      <edge source="Dawntreader Ventures" target="Jerry Kaplan" id="42" />
+      <edge source="Dawntreader Ventures" target="Canaan Partners" id="43" />
+      <edge source="Dawntreader Ventures" target="Intel" id="44" />
+      <edge source="Dawntreader Ventures" target="AT&amp;T Intellectual Property" id="45" />
+      <edge source="Dawntreader Ventures" target="Mark Tebbe" id="46" />
+      <edge source="Dawntreader Ventures" target="Mort Meyerson" id="47" />
+      <edge source="Dawntreader Ventures" target="Yossi Vardi" id="48" />
+      <edge source="Dawntreader Ventures" target="Bob Lessin" id="49" />
+      <edge source="Dawntreader Ventures" target="John Sculley" id="50" />
+      <edge source="Dawntreader Ventures" target="Jon Medved" id="51" />
+      <edge source="Dawntreader Ventures" target="Michael Parekh" id="52" />
+      <edge source="Dawntreader Ventures" target="Ron Conway" id="53" />
+      <edge source="Dawntreader Ventures" target="Garage Technology Ventures" id="54" />
+      <edge source="Dawntreader Ventures" target="Israel Seed Partners" id="55" />
+      <edge source="Information Technology Ventures" target="Jerry Kaplan" id="56" />
+      <edge source="Information Technology Ventures" target="Canaan Partners" id="57" />
+      <edge source="Information Technology Ventures" target="Intel" id="58" />
+      <edge source="Information Technology Ventures" target="AT&amp;T Intellectual Property" id="59" />
+      <edge source="Jerry Kaplan" target="Canaan Partners" id="60" />
+      <edge source="Jerry Kaplan" target="Intel" id="61" />
+      <edge source="Jerry Kaplan" target="AT&amp;T Intellectual Property" id="62" />
+      <edge source="Canaan Partners" target="Intel" id="63" />
+      <edge source="Canaan Partners" target="AT&amp;T Intellectual Property" id="64" />
+      <edge source="Intel" target="AT&amp;T Intellectual Property" id="65" />
+      <edge source="Madrona Venture Group" target="Scott Oki" id="66" />
+      <edge source="Madrona Venture Group" target="Tom Alberg" id="67" />
+      <edge source="Scott Oki" target="Tom Alberg" id="68" />
+      <edge source="Columbia Capital" target="Novak Biddle Venture Partners" id="69" />
+      <edge source="Columbia Capital" target="Nigel Morris" id="70" />
+      <edge source="Columbia Capital" target="Pamlico Capital" id="71" />
+      <edge source="Novak Biddle Venture Partners" target="Nigel Morris" id="72" />
+      <edge source="Atlas Venture" target="Hearst Ventures" id="73" />
+      <edge source="Atlas Venture" target="Interpublic Group" id="74" />
+      <edge source="Atlas Venture" target="Motorola Solutions" id="75" />
+      <edge source="Hearst Ventures" target="Interpublic Group" id="76" />
+      <edge source="Hearst Ventures" target="Motorola Solutions" id="77" />
+      <edge source="Interpublic Group" target="Motorola Solutions" id="78" />
+      <edge source="Allegis Capital" target="Mission Ventures" id="79" />
+      <edge source="Allegis Capital" target="Individual Investors" id="80" />
+      <edge source="Allegis Capital" target="Attractor Investment Management" id="81" />
+      <edge source="Allegis Capital" target="Hambrecht &amp; Quist Capital Management" id="82" />
+      <edge source="Mission Ventures" target="Individual Investors" id="83" />
+      <edge source="Mission Ventures" target="Attractor Investment Management" id="84" />
+      <edge source="Mission Ventures" target="Hambrecht &amp; Quist Capital Management" id="85" />
+      <edge source="Individual Investors" target="Attractor Investment Management" id="86" />
+      <edge source="Individual Investors" target="Hambrecht &amp; Quist Capital Management" id="87" />
+      <edge source="Attractor Investment Management" target="Hambrecht &amp; Quist Capital Management" id="88" />
+      <edge source="Andy Bechtolsheim" target="Kleiner Perkins Caufield &amp; Byers" id="89" />
+      <edge source="Pina Hirano" target="Yoshiyuki Kitahara" id="90" />
+      <edge source="Katarzyna Szubryt" target="Roman Szubryt" id="91" />
+      <edge source="Banexi Ventures" target="Innovacom" id="92" />
+      <edge source="Base Ventures" target="SV Angel" id="93" />
+      <edge source="Base Ventures" target="Erik Moore" id="94" />
+      <edge source="SV Angel" target="Erik Moore" id="95" />
+      <edge source="SV Angel" target="Ali Partovi" id="96" />
+      <edge source="SV Angel" target="Hadi Partovi" id="97" />
+      <edge source="SV Angel" target="Benchmark" id="98" />
+      <edge source="Concord Ventures" target="Pitango Venture Capital" id="99" />
+      <edge source="Concord Ventures" target="Star Ventures" id="100" />
+      <edge source="Concord Ventures" target="Walden Israel Venture Capital" id="101" />
+      <edge source="Concord Ventures" target="DFJ Tamir Fishman Ventures" id="102" />
+      <edge source="Concord Ventures" target="JPMorgan Partners (JPMP)" id="103" />
+      <edge source="Pitango Venture Capital" target="Star Ventures" id="104" />
+      <edge source="Pitango Venture Capital" target="Walden Israel Venture Capital" id="105" />
+      <edge source="Pitango Venture Capital" target="DFJ Tamir Fishman Ventures" id="106" />
+      <edge source="Pitango Venture Capital" target="JPMorgan Partners (JPMP)" id="107" />
+      <edge source="Star Ventures" target="Walden Israel Venture Capital" id="108" />
+      <edge source="Star Ventures" target="China Development Industrial Bank (CDIB)" id="109" />
+      <edge source="Star Ventures" target="Magma Venture Partners" id="110" />
+      <edge source="Star Ventures" target="SingTel" id="111" />
+      <edge source="Star Ventures" target="Viventures" id="112" />
+      <edge source="Alain Ferland" target="David Tanguay" id="113" />
+      <edge source="Alain Ferland" target="Evan Price" id="114" />
+      <edge source="Alain Ferland" target="Nick Merrick" id="115" />
+      <edge source="David Tanguay" target="Evan Price" id="116" />
+      <edge source="David Tanguay" target="Nick Merrick" id="117" />
+      <edge source="Evan Price" target="Nick Merrick" id="118" />
+      <edge source="George Lindeman" target="Virgilio Degiovanni" id="119" />
+      <edge source="Halsey Minor" target="Larry Ellison" id="120" />
+      <edge source="Halsey Minor" target="Magdalena Yesil" id="121" />
+      <edge source="Halsey Minor" target="Igor Sill" id="122" />
+      <edge source="Halsey Minor" target="John Friedenrich" id="123" />
+      <edge source="Halsey Minor" target="Patrick McGovern" id="124" />
+      <edge source="Halsey Minor" target="William Hambrecht" id="125" />
+      <edge source="Larry Ellison" target="Magdalena Yesil" id="126" />
+      <edge source="Larry Ellison" target="Igor Sill" id="127" />
+      <edge source="Larry Ellison" target="John Friedenrich" id="128" />
+      <edge source="Larry Ellison" target="Patrick McGovern" id="129" />
+      <edge source="Larry Ellison" target="William Hambrecht" id="130" />
+      <edge source="Magdalena Yesil" target="Igor Sill" id="131" />
+      <edge source="Magdalena Yesil" target="John Friedenrich" id="132" />
+      <edge source="Magdalena Yesil" target="Patrick McGovern" id="133" />
+      <edge source="Magdalena Yesil" target="William Hambrecht" id="134" />
+      <edge source="Igor Sill" target="John Friedenrich" id="135" />
+      <edge source="Igor Sill" target="Patrick McGovern" id="136" />
+      <edge source="Igor Sill" target="William Hambrecht" id="137" />
+      <edge source="John Friedenrich" target="Patrick McGovern" id="138" />
+      <edge source="John Friedenrich" target="William Hambrecht" id="139" />
+      <edge source="Patrick McGovern" target="William Hambrecht" id="140" />
+      <edge source="Mark Tebbe" target="Mort Meyerson" id="141" />
+      <edge source="Mark Tebbe" target="Yossi Vardi" id="142" />
+      <edge source="Mark Tebbe" target="Bob Lessin" id="143" />
+      <edge source="Mark Tebbe" target="John Sculley" id="144" />
+      <edge source="Mark Tebbe" target="Jon Medved" id="145" />
+      <edge source="Mark Tebbe" target="Michael Parekh" id="146" />
+      <edge source="Mark Tebbe" target="Ron Conway" id="147" />
+      <edge source="Mark Tebbe" target="Garage Technology Ventures" id="148" />
+      <edge source="Mark Tebbe" target="Israel Seed Partners" id="149" />
+      <edge source="Mort Meyerson" target="Yossi Vardi" id="150" />
+      <edge source="Mort Meyerson" target="Bob Lessin" id="151" />
+      <edge source="Mort Meyerson" target="John Sculley" id="152" />
+      <edge source="Mort Meyerson" target="Jon Medved" id="153" />
+      <edge source="Mort Meyerson" target="Michael Parekh" id="154" />
+      <edge source="Mort Meyerson" target="Ron Conway" id="155" />
+      <edge source="Mort Meyerson" target="Garage Technology Ventures" id="156" />
+      <edge source="Mort Meyerson" target="Israel Seed Partners" id="157" />
+      <edge source="Yossi Vardi" target="Bob Lessin" id="158" />
+      <edge source="Yossi Vardi" target="John Sculley" id="159" />
+      <edge source="Yossi Vardi" target="Jon Medved" id="160" />
+      <edge source="Yossi Vardi" target="Michael Parekh" id="161" />
+      <edge source="Yossi Vardi" target="Ron Conway" id="162" />
+      <edge source="Yossi Vardi" target="Garage Technology Ventures" id="163" />
+      <edge source="Yossi Vardi" target="Israel Seed Partners" id="164" />
+      <edge source="Bob Lessin" target="John Sculley" id="165" />
+      <edge source="Bob Lessin" target="Jon Medved" id="166" />
+      <edge source="Bob Lessin" target="Michael Parekh" id="167" />
+      <edge source="Bob Lessin" target="Ron Conway" id="168" />
+      <edge source="Bob Lessin" target="Garage Technology Ventures" id="169" />
+      <edge source="Bob Lessin" target="Israel Seed Partners" id="170" />
+      <edge source="John Sculley" target="Jon Medved" id="171" />
+      <edge source="John Sculley" target="Michael Parekh" id="172" />
+      <edge source="John Sculley" target="Ron Conway" id="173" />
+      <edge source="John Sculley" target="Garage Technology Ventures" id="174" />
+      <edge source="John Sculley" target="Israel Seed Partners" id="175" />
+      <edge source="Jon Medved" target="Michael Parekh" id="176" />
+      <edge source="Jon Medved" target="Ron Conway" id="177" />
+      <edge source="Jon Medved" target="Garage Technology Ventures" id="178" />
+      <edge source="Jon Medved" target="Israel Seed Partners" id="179" />
+      <edge source="Michael Parekh" target="Ron Conway" id="180" />
+      <edge source="Michael Parekh" target="Garage Technology Ventures" id="181" />
+      <edge source="Michael Parekh" target="Israel Seed Partners" id="182" />
+      <edge source="Ron Conway" target="Garage Technology Ventures" id="183" />
+      <edge source="Ron Conway" target="Israel Seed Partners" id="184" />
+      <edge source="Garage Technology Ventures" target="Israel Seed Partners" id="185" />
+      <edge source="Highland Capital Partners" target="Institutional Venture Partners (IVP)" id="186" />
+      <edge source="Institutional Venture Partners (IVP)" target="Ace Hardware" id="187" />
+      <edge source="Institutional Venture Partners (IVP)" target="Brentwood Venture Capital" id="188" />
+      <edge source="Institutional Venture Partners (IVP)" target="Technology Crossover Ventures" id="189" />
+      <edge source="Institutional Venture Partners (IVP)" target="Comdisco Ventures" id="190" />
+      <edge source="Institutional Venture Partners (IVP)" target="Transamerica Technology Finance" id="191" />
+      <edge source="Intersouth Partners" target="Newbury Ventures" id="192" />
+      <edge source="Intersouth Partners" target="Polaris Partners" id="193" />
+      <edge source="Newbury Ventures" target="Polaris Partners" id="194" />
+      <edge source="Dynafund Ventures" target="Forrest Binkley and Brown" id="195" />
+      <edge source="Dynafund Ventures" target="Idealab" id="196" />
+      <edge source="Dynafund Ventures" target="Moore Capital" id="197" />
+      <edge source="Dynafund Ventures" target="Phillips Smith Specialty Group" id="198" />
+      <edge source="Dynafund Ventures" target="Times Mirror Company" id="199" />
+      <edge source="Dynafund Ventures" target="Tredegar Investments" id="200" />
+      <edge source="Dynafund Ventures" target="Vanguard Ventures" id="201" />
+      <edge source="Dynafund Ventures" target="Navigation Capital" id="202" />
+      <edge source="Dynafund Ventures" target="NetWorth Partners" id="203" />
+      <edge source="Forrest Binkley and Brown" target="Idealab" id="204" />
+      <edge source="Forrest Binkley and Brown" target="Moore Capital" id="205" />
+      <edge source="Forrest Binkley and Brown" target="Phillips Smith Specialty Group" id="206" />
+      <edge source="Forrest Binkley and Brown" target="Times Mirror Company" id="207" />
+      <edge source="Forrest Binkley and Brown" target="Tredegar Investments" id="208" />
+      <edge source="Forrest Binkley and Brown" target="Vanguard Ventures" id="209" />
+      <edge source="Forrest Binkley and Brown" target="Navigation Capital" id="210" />
+      <edge source="Forrest Binkley and Brown" target="NetWorth Partners" id="211" />
+      <edge source="Idealab" target="Moore Capital" id="212" />
+      <edge source="Idealab" target="Phillips Smith Specialty Group" id="213" />
+      <edge source="Idealab" target="Times Mirror Company" id="214" />
+      <edge source="Idealab" target="Tredegar Investments" id="215" />
+      <edge source="Idealab" target="Vanguard Ventures" id="216" />
+      <edge source="Idealab" target="Navigation Capital" id="217" />
+      <edge source="Idealab" target="NetWorth Partners" id="218" />
+      <edge source="Moore Capital" target="Phillips Smith Specialty Group" id="219" />
+      <edge source="Moore Capital" target="Times Mirror Company" id="220" />
+      <edge source="Moore Capital" target="Tredegar Investments" id="221" />
+      <edge source="Moore Capital" target="Vanguard Ventures" id="222" />
+      <edge source="Moore Capital" target="Navigation Capital" id="223" />
+      <edge source="Moore Capital" target="NetWorth Partners" id="224" />
+      <edge source="Phillips Smith Specialty Group" target="Times Mirror Company" id="225" />
+      <edge source="Phillips Smith Specialty Group" target="Tredegar Investments" id="226" />
+      <edge source="Phillips Smith Specialty Group" target="Vanguard Ventures" id="227" />
+      <edge source="Phillips Smith Specialty Group" target="Navigation Capital" id="228" />
+      <edge source="Phillips Smith Specialty Group" target="NetWorth Partners" id="229" />
+      <edge source="Times Mirror Company" target="Tredegar Investments" id="230" />
+      <edge source="Times Mirror Company" target="Vanguard Ventures" id="231" />
+      <edge source="Times Mirror Company" target="Navigation Capital" id="232" />
+      <edge source="Times Mirror Company" target="NetWorth Partners" id="233" />
+      <edge source="Tredegar Investments" target="Vanguard Ventures" id="234" />
+      <edge source="Tredegar Investments" target="Navigation Capital" id="235" />
+      <edge source="Tredegar Investments" target="NetWorth Partners" id="236" />
+      <edge source="Tredegar Investments" target="Bedrock Capital Partners" id="237" />
+      <edge source="Vanguard Ventures" target="Navigation Capital" id="238" />
+      <edge source="Vanguard Ventures" target="NetWorth Partners" id="239" />
+      <edge source="Navigation Capital" target="NetWorth Partners" id="240" />
+      <edge source="LBB Capital Fund GmbH" target="LBB Seed Capital Fund GmbH" id="241" />
+      <edge source="Draper Richards" target="Venture Frogs" id="242" />
+      <edge source="Ali Partovi" target="Hadi Partovi" id="243" />
+      <edge source="JupiterMedia Corporation" target="Ares Management" id="244" />
+      <edge source="JupiterMedia Corporation" target="East River Ventures" id="245" />
+      <edge source="JupiterMedia Corporation" target="JPMorgan Partners (JPMP)" id="246" />
+      <edge source="JupiterMedia Corporation" target="SunAmerica Ventures" id="247" />
+      <edge source="Ares Management" target="East River Ventures" id="248" />
+      <edge source="Ares Management" target="JPMorgan Partners (JPMP)" id="249" />
+      <edge source="Ares Management" target="SunAmerica Ventures" id="250" />
+      <edge source="East River Ventures" target="JPMorgan Partners (JPMP)" id="251" />
+      <edge source="East River Ventures" target="SunAmerica Ventures" id="252" />
+      <edge source="JPMorgan Partners (JPMP)" target="SunAmerica Ventures" id="253" />
+      <edge source="JPMorgan Partners (JPMP)" target="DFJ Tamir Fishman Ventures" id="254" />
+      <edge source="Asset Management Company" target="Staenberg Venture Partners" id="255" />
+      <edge source="BlueRun Ventures" target="Nokia Ventures" id="256" />
+      <edge source="Ace Hardware" target="Brentwood Venture Capital" id="257" />
+      <edge source="Ace Hardware" target="Technology Crossover Ventures" id="258" />
+      <edge source="Ace Hardware" target="Comdisco Ventures" id="259" />
+      <edge source="Ace Hardware" target="Transamerica Technology Finance" id="260" />
+      <edge source="Brentwood Venture Capital" target="Technology Crossover Ventures" id="261" />
+      <edge source="Brentwood Venture Capital" target="Comdisco Ventures" id="262" />
+      <edge source="Brentwood Venture Capital" target="Transamerica Technology Finance" id="263" />
+      <edge source="Technology Crossover Ventures" target="Comdisco Ventures" id="264" />
+      <edge source="Technology Crossover Ventures" target="Transamerica Technology Finance" id="265" />
+      <edge source="Comdisco Ventures" target="Transamerica Technology Finance" id="266" />
+      <edge source="Gabriel Venture Partners" target="Trident Capital" id="267" />
+      <edge source="Trident Capital" target="Mayfield Fund" id="268" />
+      <edge source="Commonwealth Capital Ventures" target="TA Associates" id="269" />
+      <edge source="ARCH Venture Partners" target="Tribune Ventures" id="270" />
+      <edge source="Heidelberg Innovation" target="Mannheim Holdings" id="271" />
+      <edge source="Amerindo Investment Advisors" target="Compaq" id="272" />
+      <edge source="Amerindo Investment Advisors" target="Pivotal Private Equity" id="273" />
+      <edge source="Compaq" target="Pivotal Private Equity" id="274" />
+      <edge source="Austin Ventures" target="Kettle Partners" id="275" />
+      <edge source="Austin Ventures" target="Ticketmaster" id="276" />
+      <edge source="Austin Ventures" target="William Blair New World Ventures" id="277" />
+      <edge source="Kettle Partners" target="Ticketmaster" id="278" />
+      <edge source="Kettle Partners" target="William Blair New World Ventures" id="279" />
+      <edge source="Kettle Partners" target="New Enterprise Associates" id="280" />
+      <edge source="Ticketmaster" target="William Blair New World Ventures" id="281" />
+      <edge source="Fidelity Growth Partners Asia" target="Goldman Sachs" id="282" />
+      <edge source="Dustin Coupal" target="Jason Toews" id="283" />
+      <edge source="China Development Industrial Bank (CDIB)" target="Magma Venture Partners" id="284" />
+      <edge source="China Development Industrial Bank (CDIB)" target="SingTel" id="285" />
+      <edge source="China Development Industrial Bank (CDIB)" target="Viventures" id="286" />
+      <edge source="Magma Venture Partners" target="SingTel" id="287" />
+      <edge source="Magma Venture Partners" target="Viventures" id="288" />
+      <edge source="SingTel" target="Viventures" id="289" />
+      <edge source="Barrington Partners" target="New England Partners" id="290" />
+    </edges>
+  </graph>
+</gexf>
