@@ -1,0 +1,230 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-05-25">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="1" title="Company_Market" type="string" />
+      <attribute id="2" title="Raised_Amount_USD" type="double" />
+      <attribute id="3" title="networkx_key" type="long" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="Sector" type="string" />
+    </attributes>
+    <nodes>
+      <node id="William Lohse" label="William Lohse">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Knowledge Adventure" label="Knowledge Adventure">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Hummer Winblad Venture Partners" label="Hummer Winblad Venture Partners">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Market Wire" label="Market Wire">
+        <attvalues>
+          <attvalue for="0" value="Advertising" />
+        </attvalues>
+      </node>
+      <node id="Mindful Investors" label="Mindful Investors">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Montreux Equity Partners" label="Montreux Equity Partners">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Osprey Ventures" label="Osprey Ventures">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Perkins Coie" label="Perkins Coie">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Sequoia Capital" label="Sequoia Capital">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Stanford University" label="Stanford University">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Motorola Solutions Venture Capital" label="Motorola Solutions Venture Capital">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Viewpoint Digital" label="Viewpoint Digital">
+        <attvalues>
+          <attvalue for="0" value="Software" />
+        </attvalues>
+      </node>
+      <node id="Hummer Winblad" label="Hummer Winblad">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Intel" label="Intel">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Kleiner Perkins Caufield &amp; Byers" label="Kleiner Perkins Caufield &amp; Byers">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="eXeed Technology" label="eXeed Technology">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="ActionBase" label="ActionBase">
+        <attvalues>
+          <attvalue for="0" value="Advertising" />
+        </attvalues>
+      </node>
+      <node id="IDG Capital Partners" label="IDG Capital Partners">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="Infotop" label="Infotop">
+        <attvalues>
+          <attvalue for="0" value="Software" />
+        </attvalues>
+      </node>
+      <node id="Edmond de Rothschild Venture Capital" label="Edmond de Rothschild Venture Capital">
+        <attvalues>
+          <attvalue for="0" value="Investors" />
+        </attvalues>
+      </node>
+      <node id="MediaLink" label="MediaLink">
+        <attvalues>
+          <attvalue for="0" value="Consulting" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="William Lohse" target="Knowledge Adventure" id="0">
+        <attvalues>
+          <attvalue for="1" value="Games" />
+          <attvalue for="2" value="60000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Hummer Winblad Venture Partners" target="Market Wire" id="1">
+        <attvalues>
+          <attvalue for="1" value="Advertising" />
+          <attvalue for="2" value="17550000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Mindful Investors" target="Market Wire" id="2">
+        <attvalues>
+          <attvalue for="1" value="Advertising" />
+          <attvalue for="2" value="17550000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Montreux Equity Partners" target="Market Wire" id="3">
+        <attvalues>
+          <attvalue for="1" value="Advertising" />
+          <attvalue for="2" value="17550000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Osprey Ventures" target="Market Wire" id="4">
+        <attvalues>
+          <attvalue for="1" value="Advertising" />
+          <attvalue for="2" value="17550000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Perkins Coie" target="Market Wire" id="5">
+        <attvalues>
+          <attvalue for="1" value="Advertising" />
+          <attvalue for="2" value="17550000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Sequoia Capital" target="Market Wire" id="6">
+        <attvalues>
+          <attvalue for="1" value="Advertising" />
+          <attvalue for="2" value="17550000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Stanford University" target="Market Wire" id="7">
+        <attvalues>
+          <attvalue for="1" value="Advertising" />
+          <attvalue for="2" value="17550000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Motorola Solutions Venture Capital" target="Viewpoint Digital" id="8">
+        <attvalues>
+          <attvalue for="1" value="Software" />
+          <attvalue for="2" value="2000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Hummer Winblad" target="Viewpoint Digital" id="9">
+        <attvalues>
+          <attvalue for="1" value="Software" />
+          <attvalue for="2" value="13000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Intel" target="Viewpoint Digital" id="10">
+        <attvalues>
+          <attvalue for="1" value="Software" />
+          <attvalue for="2" value="13000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Kleiner Perkins Caufield &amp; Byers" target="Viewpoint Digital" id="11">
+        <attvalues>
+          <attvalue for="1" value="Software" />
+          <attvalue for="2" value="13000000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="eXeed Technology" target="ActionBase" id="12">
+        <attvalues>
+          <attvalue for="1" value="Advertising" />
+          <attvalue for="2" value="400000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="IDG Capital Partners" target="Infotop" id="13">
+        <attvalues>
+          <attvalue for="1" value="Software" />
+          <attvalue for="2" value="340000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Edmond de Rothschild Venture Capital" target="MediaLink" id="14">
+        <attvalues>
+          <attvalue for="1" value="Consulting" />
+          <attvalue for="2" value="3350000.0" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
