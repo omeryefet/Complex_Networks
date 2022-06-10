@@ -1,5 +1,6 @@
 import networkx as nx
 from collections import defaultdict
+import pandas as pd
 
 def print_degree_correlation_coefficient(graph):
     calc = nx.degree_pearson_correlation_coefficient(graph,x='in', y='in', weight='Raised_Amount_USD', nodes=None)
