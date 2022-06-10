@@ -2,29 +2,13 @@ import networkx as nx
 from collections import defaultdict
 import itertools 
 
-def make_graph(df):
-    companies = defaultdict(set)
-    investors = defaultdict(set)
-    edges = []
-    for _, row in df.iterrows():
-        companies[row['Company_Name']].add(row['Investor_Name'])
-        investors[row['Investor_Name']].add(row['Company_Name'])
-        # add to edges a tuple of (company, investor, {weight: amout_usd})
-        edges.append((row['Company_Name'], row['Investor_Name'], {"Weight": row['Raised_Amount_USD']} ))
-
-    attr_dic = {x:y for x, y in zip(df['Company_Name'], df['Company_Market'])}
-    attr_dic_fixed = {x:'Investors' for x in df['Investor_Name']}
-    attr_dic_fixed.update(attr_dic)
-    companies_edges.append(companies)
-    investors_edges.append(investors)
-    all_edges.append(edges)
-    graph = nx.Graph()
-    graph.add_edges_from(all_edges)
-    nx.set_node_attributes(graph, attr_dic_fixed, name="Sector")
-    return graph
-
-
 def make_companies_graph(df):
+    """
+    Create the companies projection graph
+    We say that 2 companies are connected, if they share atleast one common investor
+    :param df: pandas.Dataframe
+    :return: nx.Graph
+    """
     investor_names = df['Investor_Name'].unique()
     edges = []
     for company in investor_names:
@@ -42,6 +26,12 @@ def make_companies_graph(df):
     return graph
 
 def make_investors_graph(df):
+    """
+    Create the companies projection graph
+    We say that 2 investors are connected, if they share atleast one common company they invested in
+    :param df: _description_
+    :return: _description_
+    """
     company_names = df['Company_Name'].unique()
     edges = []
     for company in company_names:

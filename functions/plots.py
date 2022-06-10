@@ -12,6 +12,10 @@ def fit_func(x,a,mu):
     return (a*x)**mu
 
 def plot_knn(graph):
+    """
+    Calulate and plot KNN
+    :param graph: nx.Graph
+    """
     knn_dict = nx.k_nearest_neighbors(graph)
     k_lst = sorted(knn_dict.keys())
     knn_lst = []
@@ -41,6 +45,10 @@ def plot_knn(graph):
 
 
 def plot_snn(graph):
+    """
+    Calculate and plot SNN
+    :param graph: nx.Graph
+    """
     knn_dict = nx.k_nearest_neighbors(graph,weight = 'Raised_Amount_USD')
     k_lst = sorted(knn_dict.keys())
     snn_lst = []
@@ -71,6 +79,10 @@ def plot_snn(graph):
 
 
 def plot_distance_dist(graph):
+    """
+    Calculate and plot the distance distribution of the graph
+    :param graph: nx.Graph
+    """
     shortest_path = nx.shortest_path_length(graph)
     distance_dict = defaultdict(int)
     for i in shortest_path:
@@ -96,9 +108,11 @@ def plot_distance_dist(graph):
     print(f'Maximum distance is {max(distances)}')
 
 def plot_degree_distribution(graph):
-    # nodes = pd.DataFrame(list(graph.nodes))
+    """
+    Plot the degree distribution of the graph
+    :param graph: nx.Graph object
+    """
     print(nx.info(graph))
-    # degrees = [graph.degree(n) for n in graph.nodes()]
     degree_dict = {'In':graph.in_degree,'Out':graph.out_degree,'Total':graph.degree}
     dic = defaultdict() # key=in/out/total : value=count_deg
     for item in degree_dict.items():
@@ -112,33 +126,21 @@ def plot_degree_distribution(graph):
         fig, axs = plt.subplots(1,2,figsize=(20,5))
         for i in range(2):
             axs[i].scatter(dict.keys(), dict.values())
-            # mean_k = np.mean([item[0]*item[1] for item in dict.items()])
-            # max_k = max(dict.keys())
-            # a = np.linspace(1, max_k, len(list(dict.keys())))
-            # axs[i].plot(dict.keys(), poisson.pmf(a, mu=5))
-            # axs[i].plot(np.linspace(0, max_k, 100), np.exp(np.linspace(0, max_k, 100)))
-            # axs[i].plot(np.log(np.linspace(1, max_k*10, 1000000)), np.log(np.exp(np.linspace(1, max_k*10, 1000000))))
             axs[i].set_xlabel("k")
             axs[i].set_ylabel("P(k)")
             title = f'{j}-Degree Distribution {years_range[4][0]}-{years_range[4][1]}'
             if i>0:
                 axs[i].set_yscale('log')
                 axs[i].set_xscale('log')
-                # mean_k = np.mean([item[0]*item[1] for item in dict.items()])
-                # max_k = max(dict.keys())
-                # a = np.linspace(1, max_k, max_k)
-                # from math import e
-                # import math
-                # b = [((e**(-mean_k))*(mean_k**i))/(math.factorial(i)) for i in a]
-                # axs[i].plot(a,b)
-                # from scipy.stats import poisson
-                # axs[i].plot(np.linspace(1, max_k, 1000000), poisson.pmf((np.linspace(1, max_k, 1000000)),mu=mean_k))
                 title += ' (log scale)'
             axs[i].set_title(title)
 
 
 def plot_gamma(graph):
-    
+    """
+    Calulate Gamma and print it 
+    :param graph: nx.graph object
+    """
     degree_dict = {'In': graph.in_degree,'Out': graph.out_degree,'Total': graph.degree}
     degree_sequence = sorted([d for _, d in degree_dict['Total']],reverse=True)
     figPDF = powerlaw.plot_pdf(degree_sequence,color='b')
@@ -149,6 +151,11 @@ def plot_gamma(graph):
     print(f"Gamma (Total) = {gamma}")
 
 def plot_giant_component(graph, num):
+    """
+    Calulate giant component statistics and print it
+    :param graph: nx.Graph object
+    :param num: year range desired
+    """
     if nx.is_connected(graph):
       print("Diameter(G)=",nx.diameter(graph))
     else:
@@ -156,6 +163,10 @@ def plot_giant_component(graph, num):
         print("Size giant componenet =", len(max(nx.connected_components(graph),key=len)))
 
 def plot_weight_dist(graph):
+    """
+    Calculate the weight distribution and plot it
+    :param graph: nx.Graph object
+    """
     
     weight_list = sorted(list((nx.get_edge_attributes(graph,'Raised_Amount_USD').values())))
     weight_dict = defaultdict(int)
@@ -213,6 +224,7 @@ def plot_histogram(hist,title):
     plt.title(title)
     plt.bar(hist.keys(), hist.values())
     plt.xticks(rotation=45)
+    plt.ylabel("Percent [%]")
     plt.show()
 
 
